@@ -7,7 +7,7 @@ namespace Square_Root
         static void Main()
         {
             int square = int.Parse(Console.ReadLine());
-            Console.WriteLine(Math.Sqrt(square));
+            Console.WriteLine(Math.Sqrt(square) + "is this!");
         }
     }
 }
