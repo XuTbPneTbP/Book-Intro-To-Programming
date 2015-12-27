@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\bin\Release\13.Comparing-With-Precision.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\bin\Release\13.Comparing-With-Precision.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\obj\x86\Release\13.Comparing-With-Precision.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\obj\x86\Release\13.Comparing-With-Precision.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\obj\x86\Release\13.Comparing-With-Precision.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\obj\x86\Release\13.Comparing-With-Precision.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\bin\Release\13.Comparing-With-Precision.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\13.Comparing-With-Precision\bin\Release\13.Comparing-With-Precision.pdb

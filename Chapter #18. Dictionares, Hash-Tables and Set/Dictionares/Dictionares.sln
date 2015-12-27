@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Count-Words-In-Text", "CountWords\01.Count-Words-In-Text.csproj", "{768A2A52-8D13-43BB-9660-2B453F72683A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{EE207B0E-AE06-4427-A2A6-D9CEE4C24E2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{8AD4B967-9ADB-4FB8-9B2D-DCEC0B0E7CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ListVsHashTable", "ListVsHashTable\02.ListVsHashTable.csproj", "{A0EEA602-DC5D-4C98-B514-32BBB1BDD2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Count-Integer-Occurrences-In-Array", "CountIntegerOccurrencesInArray\01.Count-Integer-Occurrences-In-Array.csproj", "{4B97267E-3190-4315-9FC8-BFBD0A9EA3BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RemoveIntegersFromSequence", "02.RemoveIntegersFromSequence\02.RemoveIntegersFromSequence.csproj", "{B10B61E9-2CE2-45CE-957A-DC8F0D674C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Count-Words-From-Text-File", "03.Count-Words-From-Text-File\03.Count-Words-From-Text-File.csproj", "{6EB5D220-B2D5-46BD-8152-6722B41DABAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Hash-Set-Students", "03.Hash-Set-Students\03.Hash-Set-Students.csproj", "{2E8788D5-1F35-42FD-B012-10B364AEFFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Sorted-Set-Rock-Bands", "04.Sorted-Set-Rock-Bands\04.Sorted-Set-Rock-Bands.csproj", "{550CC4CE-E7FF-49D2-9613-9E1586DE77F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Hash-Function", "05.Hash-Function\05.Hash-Function.csproj", "{1C96DE5A-E7EA-463E-BE61-AB91C45FAB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Hash-Table-And-Chaining", "06.Hash-Table-And-Chaining\06.Hash-Table-And-Chaining.csproj", "{A330C860-71E6-4798-B5B0-FBCE7291C3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768A2A52-8D13-43BB-9660-2B453F72683A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768A2A52-8D13-43BB-9660-2B453F72683A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768A2A52-8D13-43BB-9660-2B453F72683A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768A2A52-8D13-43BB-9660-2B453F72683A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EEA602-DC5D-4C98-B514-32BBB1BDD2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EEA602-DC5D-4C98-B514-32BBB1BDD2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EEA602-DC5D-4C98-B514-32BBB1BDD2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EEA602-DC5D-4C98-B514-32BBB1BDD2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B97267E-3190-4315-9FC8-BFBD0A9EA3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B97267E-3190-4315-9FC8-BFBD0A9EA3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B97267E-3190-4315-9FC8-BFBD0A9EA3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B97267E-3190-4315-9FC8-BFBD0A9EA3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10B61E9-2CE2-45CE-957A-DC8F0D674C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10B61E9-2CE2-45CE-957A-DC8F0D674C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10B61E9-2CE2-45CE-957A-DC8F0D674C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10B61E9-2CE2-45CE-957A-DC8F0D674C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB5D220-B2D5-46BD-8152-6722B41DABAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB5D220-B2D5-46BD-8152-6722B41DABAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB5D220-B2D5-46BD-8152-6722B41DABAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB5D220-B2D5-46BD-8152-6722B41DABAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8788D5-1F35-42FD-B012-10B364AEFFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8788D5-1F35-42FD-B012-10B364AEFFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8788D5-1F35-42FD-B012-10B364AEFFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8788D5-1F35-42FD-B012-10B364AEFFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550CC4CE-E7FF-49D2-9613-9E1586DE77F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550CC4CE-E7FF-49D2-9613-9E1586DE77F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550CC4CE-E7FF-49D2-9613-9E1586DE77F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550CC4CE-E7FF-49D2-9613-9E1586DE77F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C96DE5A-E7EA-463E-BE61-AB91C45FAB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C96DE5A-E7EA-463E-BE61-AB91C45FAB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C96DE5A-E7EA-463E-BE61-AB91C45FAB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C96DE5A-E7EA-463E-BE61-AB91C45FAB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A330C860-71E6-4798-B5B0-FBCE7291C3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A330C860-71E6-4798-B5B0-FBCE7291C3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A330C860-71E6-4798-B5B0-FBCE7291C3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A330C860-71E6-4798-B5B0-FBCE7291C3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{768A2A52-8D13-43BB-9660-2B453F72683A} = {EE207B0E-AE06-4427-A2A6-D9CEE4C24E2F}
+		{A0EEA602-DC5D-4C98-B514-32BBB1BDD2CC} = {EE207B0E-AE06-4427-A2A6-D9CEE4C24E2F}
+		{4B97267E-3190-4315-9FC8-BFBD0A9EA3BE} = {8AD4B967-9ADB-4FB8-9B2D-DCEC0B0E7CEE}
+		{B10B61E9-2CE2-45CE-957A-DC8F0D674C8B} = {8AD4B967-9ADB-4FB8-9B2D-DCEC0B0E7CEE}
+		{6EB5D220-B2D5-46BD-8152-6722B41DABAF} = {8AD4B967-9ADB-4FB8-9B2D-DCEC0B0E7CEE}
+		{2E8788D5-1F35-42FD-B012-10B364AEFFED} = {EE207B0E-AE06-4427-A2A6-D9CEE4C24E2F}
+		{550CC4CE-E7FF-49D2-9613-9E1586DE77F1} = {EE207B0E-AE06-4427-A2A6-D9CEE4C24E2F}
+		{1C96DE5A-E7EA-463E-BE61-AB91C45FAB57} = {EE207B0E-AE06-4427-A2A6-D9CEE4C24E2F}
+		{A330C860-71E6-4798-B5B0-FBCE7291C3C6} = {EE207B0E-AE06-4427-A2A6-D9CEE4C24E2F}
+	EndGlobalSection
+EndGlobal

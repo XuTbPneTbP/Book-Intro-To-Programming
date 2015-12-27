@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\bin\Release\01.Declare-Variables.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\bin\Release\01.Declare-Variables.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\bin\Release\01.Declare-Variables.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\bin\Release\01.Declare-Variables.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\01.Declare-Variables\obj\x86\Release\01.Declare-Variables.pdb

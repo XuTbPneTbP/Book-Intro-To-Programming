@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\bin\Release\02.Float-or-Double.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\bin\Release\02.Float-or-Double.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\obj\x86\Release\02.Float-or-Double.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\obj\x86\Release\02.Float-or-Double.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\obj\x86\Release\02.Float-or-Double.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\obj\x86\Release\02.Float-or-Double.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\bin\Release\02.Float-or-Double.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\02.Float-or-Double\bin\Release\02.Float-or-Double.pdb

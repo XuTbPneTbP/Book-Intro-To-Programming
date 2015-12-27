@@ -1,0 +1,18 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\bin\Debug\05.Char-Matrix.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\05.Char-Matrix\obj\Debug\05.Char-Matrix.csprojResolveAssemblyReference.cache

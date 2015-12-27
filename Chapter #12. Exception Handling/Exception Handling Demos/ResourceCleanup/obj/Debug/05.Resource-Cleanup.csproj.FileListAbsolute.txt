@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ResourceCleanup\bin\Debug\ResourceCleanup.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ResourceCleanup\obj\Debug\05.Resource-Cleanup.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ResourceCleanup\bin\Debug\ResourceCleanup.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ResourceCleanup\bin\Debug\ResourceCleanup.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ResourceCleanup\obj\Debug\ResourceCleanup.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ResourceCleanup\obj\Debug\ResourceCleanup.pdb

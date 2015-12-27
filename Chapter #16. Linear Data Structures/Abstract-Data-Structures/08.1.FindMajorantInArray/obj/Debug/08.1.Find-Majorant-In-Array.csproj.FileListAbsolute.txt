@@ -1,0 +1,5 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.1.FindMajorantInArray\bin\Debug\08.1.FindMajorantInArray.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.1.FindMajorantInArray\bin\Debug\08.1.FindMajorantInArray.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.1.FindMajorantInArray\bin\Debug\08.1.FindMajorantInArray.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.1.FindMajorantInArray\obj\Debug\08.1.FindMajorantInArray.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.1.FindMajorantInArray\obj\Debug\08.1.FindMajorantInArray.pdb

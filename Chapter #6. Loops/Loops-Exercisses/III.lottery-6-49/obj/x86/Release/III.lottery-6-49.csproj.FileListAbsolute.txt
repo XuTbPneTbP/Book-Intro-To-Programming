@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\bin\Release\III.lottery-6-49.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\bin\Release\III.lottery-6-49.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\obj\x86\Release\III.lottery-6-49.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\obj\x86\Release\III.lottery-6-49.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\obj\x86\Release\III.lottery-6-49.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\obj\x86\Release\III.lottery-6-49.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\bin\Release\III.lottery-6-49.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\bin\Release\III.lottery-6-49.pdb

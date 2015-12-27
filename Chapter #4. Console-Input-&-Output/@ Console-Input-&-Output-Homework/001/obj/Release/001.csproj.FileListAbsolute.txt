@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\001\bin\Release\001.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\001\bin\Release\001.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\001\bin\Release\001.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\001\obj\Release\001.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\001\obj\Release\001.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\001\obj\Release\001.pdb

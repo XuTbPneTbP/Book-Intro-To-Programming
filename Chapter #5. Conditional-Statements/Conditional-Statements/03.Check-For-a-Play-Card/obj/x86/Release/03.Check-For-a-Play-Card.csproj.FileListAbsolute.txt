@@ -1,0 +1,7 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\03.Check-For-a-Play-Card\bin\Release\03.Check-For-a-Play-Card.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\03.Check-For-a-Play-Card\bin\Release\03.Check-For-a-Play-Card.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\03.Check-For-a-Play-Card\obj\x86\Release\03.Check-For-a-Play-Card.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\03.Check-For-a-Play-Card\obj\x86\Release\03.Check-For-a-Play-Card.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\03.Check-For-a-Play-Card\obj\x86\Release\03.Check-For-a-Play-Card.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\03.Check-For-a-Play-Card\obj\x86\Release\03.Check-For-a-Play-Card.exe
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\03.Check-For-a-Play-Card\obj\x86\Release\03.Check-For-a-Play-Card.pdb

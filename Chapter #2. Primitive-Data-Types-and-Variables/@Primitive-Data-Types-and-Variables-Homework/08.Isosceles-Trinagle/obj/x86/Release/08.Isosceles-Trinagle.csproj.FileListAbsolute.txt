@@ -1,0 +1,13 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\bin\Release\08.Isosceles-Trinagle.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\bin\Release\08.Isosceles-Trinagle.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\obj\x86\Release\08.Isosceles-Trinagle.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\obj\x86\Release\08.Isosceles-Trinagle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\obj\x86\Release\08.Isosceles-Trinagle.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\obj\x86\Release\08.Isosceles-Trinagle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\bin\Release\08.Isosceles-Trinagle.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\bin\Release\08.Isosceles-Trinagle.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\obj\x86\Release\08.Isosceles-Trinagle.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\obj\x86\Release\08.Isosceles-Trinagle.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\bin\Release\08.Isosceles-Trinagle.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\bin\Release\08.Isosceles-Trinagle.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\08.Isosceles-Trinagle\obj\x86\Release\08.Isosceles-Trinagle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\bin\Release\06.Strings-And-Objects.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\bin\Release\06.Strings-And-Objects.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\obj\x86\Release\06.Strings-And-Objects.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\obj\x86\Release\06.Strings-And-Objects.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\obj\x86\Release\06.Strings-And-Objects.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\obj\x86\Release\06.Strings-And-Objects.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\bin\Release\06.Strings-And-Objects.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\bin\Release\06.Strings-And-Objects.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\obj\x86\Release\06.Strings-And-Objects.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\06.Strings-And-Objects\obj\x86\Release\06.Strings-And-Objects.pdb

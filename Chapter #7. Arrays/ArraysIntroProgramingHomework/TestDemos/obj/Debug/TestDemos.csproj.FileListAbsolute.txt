@@ -1,0 +1,8 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\bin\Debug\TestDemos.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\bin\Debug\TestDemos.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\bin\Debug\TestDemos.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\obj\Debug\TestDemos.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\obj\Debug\TestDemos.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\bin\Debug\TestDemos.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\obj\Debug\TestDemos.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\TestDemos\obj\Debug\TestDemos.pdb

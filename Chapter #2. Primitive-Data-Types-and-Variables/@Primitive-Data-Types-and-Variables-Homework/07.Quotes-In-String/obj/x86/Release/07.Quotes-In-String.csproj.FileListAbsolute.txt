@@ -1,0 +1,13 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\bin\Release\07.Quotes-In-String.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\bin\Release\07.Quotes-In-String.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\obj\x86\Release\07.Quotes-In-String.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\obj\x86\Release\07.Quotes-In-String.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\obj\x86\Release\07.Quotes-In-String.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\obj\x86\Release\07.Quotes-In-String.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\bin\Release\07.Quotes-In-String.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\bin\Release\07.Quotes-In-String.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\obj\x86\Release\07.Quotes-In-String.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\obj\x86\Release\07.Quotes-In-String.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\bin\Release\07.Quotes-In-String.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\bin\Release\07.Quotes-In-String.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\07.Quotes-In-String\obj\x86\Release\07.Quotes-In-String.csprojResolveAssemblyReference.cache

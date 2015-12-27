@@ -1,0 +1,1 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\01.SumAndAverageOfList\bin\Debug\01.SumAndAverageOfList.exe.config

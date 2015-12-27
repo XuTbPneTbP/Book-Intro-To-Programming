@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ExceptionsDemo\obj\Debug\01.Exceptions-Demo.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb

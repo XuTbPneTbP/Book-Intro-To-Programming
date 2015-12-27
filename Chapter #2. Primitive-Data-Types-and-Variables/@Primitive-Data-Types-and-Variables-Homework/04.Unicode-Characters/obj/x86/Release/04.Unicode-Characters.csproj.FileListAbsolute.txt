@@ -1,0 +1,10 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\bin\Release\04.Unicode-Characters.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\bin\Release\04.Unicode-Characters.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\obj\x86\Release\04.Unicode-Characters.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\obj\x86\Release\04.Unicode-Characters.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\obj\x86\Release\04.Unicode-Characters.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\obj\x86\Release\04.Unicode-Characters.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\bin\Release\04.Unicode-Characters.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\bin\Release\04.Unicode-Characters.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\obj\x86\Release\04.Unicode-Characters.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\04.Unicode-Characters\obj\x86\Release\04.Unicode-Characters.pdb

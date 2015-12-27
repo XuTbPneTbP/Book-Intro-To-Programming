@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\bin\Release\V.SumOfOddNotDivisibleToSeven.exe.config
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\bin\Release\V.SumOfOddNotDivisibleToSeven.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\bin\Release\V.SumOfOddNotDivisibleToSeven.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\obj\Release\V.SumOfOddNotDivisibleToSeven.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\obj\Release\V.SumOfOddNotDivisibleToSeven.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\obj\Release\V.SumOfOddNotDivisibleToSeven.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\bin\Release\V.SumOfOddNotDivisibleToSeven.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\obj\Release\V.SumOfOddNotDivisibleToSeven.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\obj\Release\V.SumOfOddNotDivisibleToSeven.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\bin\Release\V.SumOfOddNotDivisibleToSeven.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\bin\Release\V.SumOfOddNotDivisibleToSeven.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\V.SumOfOddNotDivisibleToSeven\obj\Release\V.SumOfOddNotDivisibleToSeven.csprojResolveAssemblyReference.cache

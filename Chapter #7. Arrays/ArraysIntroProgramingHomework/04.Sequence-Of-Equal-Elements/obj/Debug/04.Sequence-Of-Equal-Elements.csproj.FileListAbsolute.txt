@@ -1,0 +1,18 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\bin\Debug\04.Sequence-Of-Equal-Elements.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\04.Sequence-Of-Equal-Elements\obj\Debug\04.Sequence-Of-Equal-Elements.csprojResolveAssemblyReference.cache

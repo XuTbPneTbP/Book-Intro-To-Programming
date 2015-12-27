@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\bin\Release\15.Bit-Exchange.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\bin\Release\15.Bit-Exchange.pdb
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\obj\x86\Release\15.Bit-Exchange.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\obj\x86\Release\15.Bit-Exchange.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\obj\x86\Release\15.Bit-Exchange.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\obj\x86\Release\15.Bit-Exchange.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\bin\Release\15.Bit-Exchange.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\15.Bit-Exchange\bin\Release\15.Bit-Exchange.pdb

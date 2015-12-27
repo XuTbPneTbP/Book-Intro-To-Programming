@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\03.Variable-In-Hexadecimal-Format\bin\Release\03.Variable-In-Hexadecimal-Format.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\03.Variable-In-Hexadecimal-Format\bin\Release\03.Variable-In-Hexadecimal-Format.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\03.Variable-In-Hexadecimal-Format\obj\x86\Release\03.Variable-In-Hexadecimal-Format.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\03.Variable-In-Hexadecimal-Format\obj\x86\Release\03.Variable-In-Hexadecimal-Format.pdb

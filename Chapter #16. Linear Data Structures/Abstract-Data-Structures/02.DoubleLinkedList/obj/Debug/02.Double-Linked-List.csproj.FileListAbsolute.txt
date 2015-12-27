@@ -1,0 +1,5 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.DoubleLinkedList\bin\Debug\02.DoubleLinkedList.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.DoubleLinkedList\bin\Debug\02.DoubleLinkedList.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.DoubleLinkedList\bin\Debug\02.DoubleLinkedList.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.DoubleLinkedList\obj\Debug\02.DoubleLinkedList.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.DoubleLinkedList\obj\Debug\02.DoubleLinkedList.pdb

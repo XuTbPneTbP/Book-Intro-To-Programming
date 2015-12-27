@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\06.1.Divide-N-And-K-Factorial\bin\Release\06.1.Divide-N-And-K-Factorial.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\06.1.Divide-N-And-K-Factorial\bin\Release\06.1.Divide-N-And-K-Factorial.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\06.1.Divide-N-And-K-Factorial\bin\Release\06.1.Divide-N-And-K-Factorial.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\06.1.Divide-N-And-K-Factorial\obj\Release\06.1.Divide-N-And-K-Factorial.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\06.1.Divide-N-And-K-Factorial\obj\Release\06.1.Divide-N-And-K-Factorial.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\06.1.Divide-N-And-K-Factorial\obj\Release\06.1.Divide-N-And-K-Factorial.pdb

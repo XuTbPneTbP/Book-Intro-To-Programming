@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.StreamWriter\bin\Debug\04.StreamWriter.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.StreamWriter\bin\Debug\04.StreamWriter.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.StreamWriter\bin\Debug\04.StreamWriter.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.StreamWriter\obj\Debug\04.StreamWriter.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.StreamWriter\obj\Debug\04.StreamWriter.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.StreamWriter\obj\Debug\04.StreamWriter.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.StreamWriter\bin\Debug\04.StreamWriter.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.StreamWriter\obj\Debug\04.StreamWriter.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.StreamWriter\obj\Debug\04.StreamWriter.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.StreamWriter\bin\Debug\04.StreamWriter.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.StreamWriter\bin\Debug\04.StreamWriter.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.StreamWriter\obj\Debug\04.StreamWriter.csprojResolveAssemblyReference.cache

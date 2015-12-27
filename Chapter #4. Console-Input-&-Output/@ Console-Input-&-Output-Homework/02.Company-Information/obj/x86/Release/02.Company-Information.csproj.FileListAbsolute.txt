@@ -1,0 +1,14 @@
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\02.Company-Information\bin\Release\02.Company-Information.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\02.Company-Information\bin\Release\02.Company-Information.pdb
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\02.Company-Information\obj\x86\Release\02.Company-Information.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\02.Company-Information\obj\x86\Release\02.Company-Information.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\obj\x86\Release\02.Company-Information.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\obj\x86\Release\02.Company-Information.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\bin\Release\02.Company-Information.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\bin\Release\02.Company-Information.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\obj\x86\Release\02.Company-Information.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\bin\Release\02.Company-Information.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\bin\Release\02.Company-Information.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\obj\x86\Release\02.Company-Information.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\obj\x86\Release\02.Company-Information.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\02.Company-Information\obj\x86\Release\02.Company-Information.pdb

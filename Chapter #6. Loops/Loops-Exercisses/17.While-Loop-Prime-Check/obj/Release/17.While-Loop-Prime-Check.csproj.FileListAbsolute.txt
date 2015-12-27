@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\17.While-Loop-Prime-Check\bin\Release\17.While-Loop-Prime-Check.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\17.While-Loop-Prime-Check\bin\Release\17.While-Loop-Prime-Check.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\17.While-Loop-Prime-Check\bin\Release\17.While-Loop-Prime-Check.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\17.While-Loop-Prime-Check\obj\Release\17.While-Loop-Prime-Check.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\17.While-Loop-Prime-Check\obj\Release\17.While-Loop-Prime-Check.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\17.While-Loop-Prime-Check\obj\Release\17.While-Loop-Prime-Check.pdb

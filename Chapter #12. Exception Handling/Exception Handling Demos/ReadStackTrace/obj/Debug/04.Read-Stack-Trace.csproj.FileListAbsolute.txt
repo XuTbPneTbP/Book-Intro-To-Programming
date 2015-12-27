@@ -1,0 +1,5 @@
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ReadStackTrace\bin\Debug\ReadStackTrace.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ReadStackTrace\bin\Debug\ReadStackTrace.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ReadStackTrace\bin\Debug\ReadStackTrace.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ReadStackTrace\obj\Debug\ReadStackTrace.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ReadStackTrace\obj\Debug\ReadStackTrace.pdb

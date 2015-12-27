@@ -1,0 +1,9 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\bin\Release\Square-Root.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\bin\Release\Square-Root.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\obj\x86\Release\Square-Root.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\obj\x86\Release\Square-Root.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\obj\x86\Release\Square-Root.exe
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\obj\x86\Release\Square-Root.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\bin\Release\Square-Root.exe
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\bin\Release\Square-Root.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Square-Root\obj\x86\Release\Square-Root.csprojResolveAssemblyReference.cache

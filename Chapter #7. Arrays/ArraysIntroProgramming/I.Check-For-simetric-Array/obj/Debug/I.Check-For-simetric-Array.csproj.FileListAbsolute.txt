@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\I.Check-For-simetric-Array\bin\Debug\I.Check-For-simetric-Array.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\I.Check-For-simetric-Array\bin\Debug\I.Check-For-simetric-Array.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\I.Check-For-simetric-Array\bin\Debug\I.Check-For-simetric-Array.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\I.Check-For-simetric-Array\obj\Debug\I.Check-For-simetric-Array.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\I.Check-For-simetric-Array\obj\Debug\I.Check-For-simetric-Array.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\I.Check-For-simetric-Array\obj\Debug\I.Check-For-simetric-Array.pdb

@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\bin\Release\19.Diamond-Explorer.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\bin\Release\19.Diamond-Explorer.pdb
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\obj\x86\Release\19.Diamond-Explorer.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\obj\x86\Release\19.Diamond-Explorer.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\obj\x86\Release\19.Diamond-Explorer.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\obj\x86\Release\19.Diamond-Explorer.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\bin\Release\19.Diamond-Explorer.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\19.Diamond-Explorer\bin\Release\19.Diamond-Explorer.pdb

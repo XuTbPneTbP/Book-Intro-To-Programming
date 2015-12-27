@@ -1,0 +1,5 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\09.PrintQueueSequence\bin\Debug\09.PrintQueueSequence.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\09.PrintQueueSequence\bin\Debug\09.PrintQueueSequence.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\09.PrintQueueSequence\bin\Debug\09.PrintQueueSequence.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\09.PrintQueueSequence\obj\Debug\09.PrintQueueSequence.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\09.PrintQueueSequence\obj\Debug\09.PrintQueueSequence.pdb

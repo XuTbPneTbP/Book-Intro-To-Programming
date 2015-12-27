@@ -1,0 +1,61 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+namespace _03.Count_Words_From_Text_File
+{
+    class OrderByOccurrences
+    {
+        static void Main()
+        {
+            //PrintTextFromFile();
+
+            IDictionary<string, int> wordOccurencesInFile = new SortedDictionary<string, int>();
+            StreamReader reader = new StreamReader("../../../words.txt");
+
+            using (reader)
+            {
+                string line = reader.ReadLine();
+                while (line != null)
+                {
+                    string[] wordsFromFile = line.Split(' ', '.', '=', '!', ';', '<', '>', '(', ')', '{', '}', '[', ']');
+                    foreach (var word in wordsFromFile)
+                    {
+                        int count;
+                        if (!wordOccurencesInFile.TryGetValue(word, out  count))
+                        {
+                            count = 0;
+                        }
+                        wordOccurencesInFile[word] = count + 1;
+                    }
+                    line = reader.ReadLine();
+                }
+            }
+
+            foreach (var word in wordOccurencesInFile)
+            {
+                Console.WriteLine("Word => {0} found {1} time(s)", word.Key, word.Value);
+            }
+
+        }
+
+        private static void PrintTextFromFile()
+        {
+            StreamReader reader = new StreamReader("../../../words.txt");
+            using (reader)
+            {
+                int counter = 1;
+                string line = reader.ReadLine();
+                while (line != null)
+                {
+                    Console.WriteLine("|Line {0}| => {1}", counter, line);
+                    counter++;
+                    line = reader.ReadLine();
+                }
+
+            }
+
+        }
+
+    }
+}

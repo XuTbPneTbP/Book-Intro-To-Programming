@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #22. Lambda Expressions and LINQ\LambdaAndLINQ\Demos\bin\Debug\Demos.exe.config
+D:\PROGRAMING\C#\Chapter #22. Lambda Expressions and LINQ\LambdaAndLINQ\Demos\bin\Debug\Demos.exe
+D:\PROGRAMING\C#\Chapter #22. Lambda Expressions and LINQ\LambdaAndLINQ\Demos\bin\Debug\Demos.pdb
+D:\PROGRAMING\C#\Chapter #22. Lambda Expressions and LINQ\LambdaAndLINQ\Demos\obj\Debug\Demos.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #22. Lambda Expressions and LINQ\LambdaAndLINQ\Demos\obj\Debug\Demos.exe
+D:\PROGRAMING\C#\Chapter #22. Lambda Expressions and LINQ\LambdaAndLINQ\Demos\obj\Debug\Demos.pdb

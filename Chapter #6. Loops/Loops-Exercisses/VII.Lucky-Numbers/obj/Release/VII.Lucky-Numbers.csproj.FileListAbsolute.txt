@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VII.Lucky-Numbers\bin\Release\VII.Lucky-Numbers.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VII.Lucky-Numbers\bin\Release\VII.Lucky-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VII.Lucky-Numbers\bin\Release\VII.Lucky-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VII.Lucky-Numbers\obj\Release\VII.Lucky-Numbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VII.Lucky-Numbers\obj\Release\VII.Lucky-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VII.Lucky-Numbers\obj\Release\VII.Lucky-Numbers.pdb

@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.SimulationOfNestedLoops\bin\Debug\04.SimulationOfNestedLoops.exe.config
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.SimulationOfNestedLoops\bin\Debug\04.SimulationOfNestedLoops.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.SimulationOfNestedLoops\bin\Debug\04.SimulationOfNestedLoops.pdb
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.SimulationOfNestedLoops\obj\Debug\04.SimulationOfNestedLoops.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.SimulationOfNestedLoops\obj\Debug\04.SimulationOfNestedLoops.pdb

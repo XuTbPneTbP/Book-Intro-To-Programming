@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\03.BinaryTree\bin\Debug\03.BinaryTree.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\03.BinaryTree\bin\Debug\03.BinaryTree.exe
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\03.BinaryTree\bin\Debug\03.BinaryTree.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\03.BinaryTree\obj\Debug\03.Binary-Tree.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\03.BinaryTree\obj\Debug\03.BinaryTree.exe
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\03.BinaryTree\obj\Debug\03.BinaryTree.pdb

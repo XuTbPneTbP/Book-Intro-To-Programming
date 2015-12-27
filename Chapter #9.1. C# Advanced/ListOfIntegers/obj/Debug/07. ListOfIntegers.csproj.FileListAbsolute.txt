@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Downloads\ListOfIntegers\bin\Debug\ListOfIntegers.exe
+C:\Users\User\Desktop\Downloads\ListOfIntegers\bin\Debug\ListOfIntegers.pdb
+C:\Users\User\Desktop\Downloads\ListOfIntegers\obj\Debug\ListOfIntegers.exe
+C:\Users\User\Desktop\Downloads\ListOfIntegers\obj\Debug\ListOfIntegers.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ListOfIntegers\obj\Debug\ListOfIntegers.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ListOfIntegers\obj\Debug\ListOfIntegers.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ListOfIntegers\bin\Debug\ListOfIntegers.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ListOfIntegers\bin\Debug\ListOfIntegers.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\ListOfIntegers\obj\Debug\ListOfIntegers.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\ListOfIntegers\obj\Debug\ListOfIntegers.pdb

@@ -1,0 +1,1 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VIII.Spiral-Matrix\bin\Release\VIII.Spiral-Matrix.exe.config

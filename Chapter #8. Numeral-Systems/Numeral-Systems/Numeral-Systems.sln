@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Convert2Binary", "01.Convert2Binary\01.Convert2Binary.csproj", "{BF2938BD-C76B-4B23-AA2F-59D9880C0842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I.Demos", "I.Demos\I.Demos.csproj", "{CEC115FD-BB4C-405D-BDF1-88886BCCD70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Bin2HexAndDec", "02.Bin2HexAndDec\02.Bin2HexAndDec.csproj", "{B94616D9-7E28-479D-B597-676AFB464DA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2938BD-C76B-4B23-AA2F-59D9880C0842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2938BD-C76B-4B23-AA2F-59D9880C0842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2938BD-C76B-4B23-AA2F-59D9880C0842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2938BD-C76B-4B23-AA2F-59D9880C0842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC115FD-BB4C-405D-BDF1-88886BCCD70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC115FD-BB4C-405D-BDF1-88886BCCD70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC115FD-BB4C-405D-BDF1-88886BCCD70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC115FD-BB4C-405D-BDF1-88886BCCD70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94616D9-7E28-479D-B597-676AFB464DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94616D9-7E28-479D-B597-676AFB464DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94616D9-7E28-479D-B597-676AFB464DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94616D9-7E28-479D-B597-676AFB464DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

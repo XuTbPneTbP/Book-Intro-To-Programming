@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\05.UnionAndIntersectionOfLists\bin\Debug\05.UnionAndIntersectionOfLists.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\05.UnionAndIntersectionOfLists\obj\Debug\05.Union-And-Intersection-Of-Lists.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\05.UnionAndIntersectionOfLists\bin\Debug\05.UnionAndIntersectionOfLists.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\05.UnionAndIntersectionOfLists\bin\Debug\05.UnionAndIntersectionOfLists.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\05.UnionAndIntersectionOfLists\obj\Debug\05.UnionAndIntersectionOfLists.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\05.UnionAndIntersectionOfLists\obj\Debug\05.UnionAndIntersectionOfLists.pdb

@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\bin\Debug\03.Maximal-Platform-In-Matrix.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\bin\Debug\03.Maximal-Platform-In-Matrix.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\bin\Debug\03.Maximal-Platform-In-Matrix.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\obj\Debug\03.Maximal-Platform-In-Matrix.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\obj\Debug\03.Maximal-Platform-In-Matrix.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\obj\Debug\03.Maximal-Platform-In-Matrix.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\bin\Debug\03.Maximal-Platform-In-Matrix.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\obj\Debug\03.Maximal-Platform-In-Matrix.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\obj\Debug\03.Maximal-Platform-In-Matrix.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\bin\Debug\03.Maximal-Platform-In-Matrix.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\bin\Debug\03.Maximal-Platform-In-Matrix.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-In-Matrix\obj\Debug\03.Maximal-Platform-In-Matrix.csprojResolveAssemblyReference.cache

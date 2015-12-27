@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Downloads\DefiningAndUsingClasses\obj\Debug\13. DefiningAndUsingClasses.csprojResolveAssemblyReference.cache
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\DefiningAndUsingClasses\obj\Debug\13. DefiningAndUsingClasses.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\DefiningAndUsingClasses\obj\Debug\13. DefiningAndUsingClasses.csprojResolveAssemblyReference.cache

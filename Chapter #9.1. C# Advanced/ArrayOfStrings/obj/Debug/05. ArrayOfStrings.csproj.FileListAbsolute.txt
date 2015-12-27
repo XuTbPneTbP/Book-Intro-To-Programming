@@ -1,0 +1,6 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfStrings\bin\Debug\ArrayOfStrings.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfStrings\obj\Debug\ArrayOfStrings.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfStrings\obj\Debug\ArrayOfStrings.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfStrings\obj\Debug\ArrayOfStrings.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfStrings\obj\Debug\ArrayOfStrings.pdb

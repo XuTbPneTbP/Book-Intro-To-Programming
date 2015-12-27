@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\06.Stack\bin\Debug\06.Stack.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\06.Stack\bin\Debug\06.Stack.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\06.Stack\bin\Debug\06.Stack.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\06.Stack\obj\Debug\06.Stack.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\06.Stack\obj\Debug\06.Stack.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\06.Stack\obj\Debug\06.Stack.pdb

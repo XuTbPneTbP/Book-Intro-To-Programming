@@ -1,0 +1,11 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\bin\Release\12.CalculateSumWithPrecision.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\bin\Release\12.CalculateSumWithPrecision.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\bin\Release\12.CalculateSumWithPrecision.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\obj\Release\12.CalculateSumWithPrecision.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\obj\Release\12.CalculateSumWithPrecision.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\bin\Release\12.CalculateSumWithPrecision.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\bin\Release\12.CalculateSumWithPrecision.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\bin\Release\12.CalculateSumWithPrecision.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\obj\Release\12.CalculateSumWithPrecision.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\obj\Release\12.CalculateSumWithPrecision.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\12.CalculateSumWithPrecision\obj\Release\12.CalculateSumWithPrecision.pdb

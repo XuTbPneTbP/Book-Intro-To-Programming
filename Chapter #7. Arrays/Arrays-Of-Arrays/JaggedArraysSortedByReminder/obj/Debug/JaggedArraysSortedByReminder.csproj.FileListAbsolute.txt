@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedArraysSortedByReminder\bin\Debug\JaggedArraysSortedByReminder.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedArraysSortedByReminder\bin\Debug\JaggedArraysSortedByReminder.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedArraysSortedByReminder\bin\Debug\JaggedArraysSortedByReminder.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedArraysSortedByReminder\obj\Debug\JaggedArraysSortedByReminder.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedArraysSortedByReminder\obj\Debug\JaggedArraysSortedByReminder.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedArraysSortedByReminder\obj\Debug\JaggedArraysSortedByReminder.pdb

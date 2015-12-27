@@ -1,0 +1,2 @@
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\05.EightQueenProblem\bin\Debug\05.EightQueenProblem.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\05.EightQueenProblem\bin\Debug\05.EightQueenProblem.exe.config

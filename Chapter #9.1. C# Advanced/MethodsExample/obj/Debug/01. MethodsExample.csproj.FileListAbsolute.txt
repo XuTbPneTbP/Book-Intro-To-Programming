@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Downloads\MethodsExample\bin\Debug\MethodsExample.exe
+C:\Users\User\Desktop\Downloads\MethodsExample\bin\Debug\MethodsExample.pdb
+C:\Users\User\Desktop\Downloads\MethodsExample\obj\Debug\01. MethodsExample.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Downloads\MethodsExample\obj\Debug\MethodsExample.exe
+C:\Users\User\Desktop\Downloads\MethodsExample\obj\Debug\MethodsExample.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\obj\Debug\MethodsExample.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\obj\Debug\MethodsExample.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\bin\Debug\MethodsExample.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\bin\Debug\MethodsExample.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\obj\Debug\01. MethodsExample.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\obj\Debug\MethodsExample.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\obj\Debug\MethodsExample.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\bin\Debug\MethodsExample.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\bin\Debug\MethodsExample.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsExample\obj\Debug\01. MethodsExample.csprojResolveAssemblyReference.cache

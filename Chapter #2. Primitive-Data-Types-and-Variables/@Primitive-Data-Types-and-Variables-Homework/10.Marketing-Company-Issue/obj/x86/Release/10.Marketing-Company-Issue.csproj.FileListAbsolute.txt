@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\10.Marketing-Company-Issue\bin\Release\10.Marketing-Company-Issue.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\10.Marketing-Company-Issue\bin\Release\10.Marketing-Company-Issue.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\10.Marketing-Company-Issue\obj\x86\Release\10.Marketing-Company-Issue.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\10.Marketing-Company-Issue\obj\x86\Release\10.Marketing-Company-Issue.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\10.Marketing-Company-Issue\obj\x86\Release\10.Marketing-Company-Issue.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\10.Marketing-Company-Issue\obj\x86\Release\10.Marketing-Company-Issue.pdb

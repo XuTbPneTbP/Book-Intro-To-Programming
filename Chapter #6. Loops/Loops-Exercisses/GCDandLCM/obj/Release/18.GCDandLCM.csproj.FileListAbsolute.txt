@@ -1,0 +1,3 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\GCDandLCM\bin\Release\GCDandLCM.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\GCDandLCM\obj\Release\GCDandLCM.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\GCDandLCM\obj\Release\GCDandLCM.pdb

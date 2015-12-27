@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\bin\Release\03.Min-Max-Sum-Avarage.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\bin\Release\03.Min-Max-Sum-Avarage.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\obj\x86\Release\03.Min-Max-Sum-Avarage.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\obj\x86\Release\03.Min-Max-Sum-Avarage.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\obj\x86\Release\03.Min-Max-Sum-Avarage.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\obj\x86\Release\03.Min-Max-Sum-Avarage.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\bin\Release\03.Min-Max-Sum-Avarage.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.Min-Max-Sum-Avarage\bin\Release\03.Min-Max-Sum-Avarage.pdb

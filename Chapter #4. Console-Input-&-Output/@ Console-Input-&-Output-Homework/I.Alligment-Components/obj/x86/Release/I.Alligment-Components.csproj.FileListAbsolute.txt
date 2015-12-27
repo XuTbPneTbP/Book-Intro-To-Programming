@@ -1,0 +1,15 @@
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\bin\Release\I.Alligment-Components.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\bin\Release\I.Alligment-Components.pdb
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\bin\Release\I.Alligment-Components.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.Alligment-Components\bin\Release\I.Alligment-Components.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.Alligment-Components\bin\Release\I.Alligment-Components.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.Alligment-Components\bin\Release\I.Alligment-Components.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.Alligment-Components\obj\x86\Release\I.Alligment-Components.csprojResolveAssemblyReference.cache

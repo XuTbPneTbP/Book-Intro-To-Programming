@@ -1,0 +1,2 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\Case-InsensitiveComparer\obj\Debug\Case-Insensitive-Comparer.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\Case-InsensitiveComparer\bin\Debug\Case-InsensitiveComparer.exe.config

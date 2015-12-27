@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\bin\Debug\I.Print-Triangle.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\bin\Debug\I.Print-Triangle.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Debug\I.Print-Triangle.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Debug\I.Print-Triangle.pdb

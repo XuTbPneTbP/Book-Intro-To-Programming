@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #19. Data Structures and Algorithm Complexity\ChosingADataStructure\02.Hash-Set\bin\Debug\02.Hash-Set.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #19. Data Structures and Algorithm Complexity\ChosingADataStructure\02.Hash-Set\bin\Debug\02.Hash-Set.exe
+D:\PROGRAMING\Intro2Programing\Chapter #19. Data Structures and Algorithm Complexity\ChosingADataStructure\02.Hash-Set\bin\Debug\02.Hash-Set.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #19. Data Structures and Algorithm Complexity\ChosingADataStructure\02.Hash-Set\obj\Debug\02.Hash-Set.exe
+D:\PROGRAMING\Intro2Programing\Chapter #19. Data Structures and Algorithm Complexity\ChosingADataStructure\02.Hash-Set\obj\Debug\02.Hash-Set.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #19. Data Structures and Algorithm Complexity\ChosingADataStructure\02.Hash-Set\obj\Debug\02.Hash-Set.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\bin\Debug\III.lottery-6-49.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\bin\Debug\III.lottery-6-49.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\obj\x86\Debug\III.lottery-6-49.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\III.lottery-6-49\obj\x86\Debug\III.lottery-6-49.pdb

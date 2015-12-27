@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Downloads\Using-DotNet-Classes\bin\Debug\Using-DotNet-Classes.exe
+C:\Users\User\Desktop\Downloads\Using-DotNet-Classes\bin\Debug\Using-DotNet-Classes.pdb
+C:\Users\User\Desktop\Downloads\Using-DotNet-Classes\obj\Debug\03. Using-DotNet-Classes.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Downloads\Using-DotNet-Classes\obj\Debug\Using-DotNet-Classes.exe
+C:\Users\User\Desktop\Downloads\Using-DotNet-Classes\obj\Debug\Using-DotNet-Classes.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Using-DotNet-Classes\obj\Debug\Using-DotNet-Classes.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Using-DotNet-Classes\obj\Debug\Using-DotNet-Classes.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Using-DotNet-Classes\bin\Debug\Using-DotNet-Classes.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Using-DotNet-Classes\bin\Debug\Using-DotNet-Classes.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Using-DotNet-Classes\obj\Debug\03. Using-DotNet-Classes.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\Using-DotNet-Classes\obj\Debug\Using-DotNet-Classes.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\Using-DotNet-Classes\obj\Debug\Using-DotNet-Classes.pdb

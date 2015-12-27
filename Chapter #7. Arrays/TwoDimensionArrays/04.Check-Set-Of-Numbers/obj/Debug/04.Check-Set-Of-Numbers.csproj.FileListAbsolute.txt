@@ -1,0 +1,18 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\bin\Debug\04.Check-Set-Of-Numbers.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\04.Check-Set-Of-Numbers\obj\Debug\04.Check-Set-Of-Numbers.csprojResolveAssemblyReference.cache

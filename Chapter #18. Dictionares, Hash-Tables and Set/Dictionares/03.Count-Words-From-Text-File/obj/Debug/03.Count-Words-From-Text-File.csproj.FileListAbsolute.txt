@@ -1,0 +1,12 @@
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\bin\Debug\03.Count-Words-From-Text-File.exe.config
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\bin\Debug\03.Count-Words-From-Text-File.exe
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\bin\Debug\03.Count-Words-From-Text-File.pdb
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\obj\Debug\03.Count-Words-From-Text-File.exe
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\obj\Debug\03.Count-Words-From-Text-File.pdb
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\obj\Debug\03.Count-Words-From-Text-File.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\bin\Debug\03.Count-Words-From-Text-File.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\obj\Debug\03.Count-Words-From-Text-File.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\obj\Debug\03.Count-Words-From-Text-File.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\bin\Debug\03.Count-Words-From-Text-File.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\bin\Debug\03.Count-Words-From-Text-File.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Count-Words-From-Text-File\obj\Debug\03.Count-Words-From-Text-File.csprojResolveAssemblyReference.cache

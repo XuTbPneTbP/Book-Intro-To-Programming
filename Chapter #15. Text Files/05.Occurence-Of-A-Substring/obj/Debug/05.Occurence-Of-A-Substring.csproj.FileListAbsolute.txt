@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Occurence-Of-A-Substring\bin\Debug\05.Occurence-Of-A-Substring.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Occurence-Of-A-Substring\bin\Debug\05.Occurence-Of-A-Substring.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Occurence-Of-A-Substring\bin\Debug\05.Occurence-Of-A-Substring.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Occurence-Of-A-Substring\obj\Debug\05.Occurence-Of-A-Substring.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Occurence-Of-A-Substring\obj\Debug\05.Occurence-Of-A-Substring.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Occurence-Of-A-Substring\bin\Debug\05.Occurence-Of-A-Substring.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Occurence-Of-A-Substring\obj\Debug\05.Occurence-Of-A-Substring.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Occurence-Of-A-Substring\obj\Debug\05.Occurence-Of-A-Substring.pdb

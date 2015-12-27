@@ -1,0 +1,13 @@
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\UR2PPR\bin\Debug\UR2PPR.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\UR2PPR\bin\Debug\UR2PPR.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\UR2PPR\bin\Debug\UR2PPR.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\UR2PPR\bin\Debug\UR2PPR.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\UR2PPR\obj\Debug\UR2PPR.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\UR2PPR\obj\Debug\UR2PPR.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\UR2PPR\obj\Debug\UR2PPR.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\UR2PPR\bin\Debug\UR2PPR.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\UR2PPR\obj\Debug\UR2PPR.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\UR2PPR\obj\Debug\UR2PPR.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\UR2PPR\bin\Debug\UR2PPR.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\UR2PPR\bin\Debug\UR2PPR.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\UR2PPR\obj\Debug\UR2PPR.csprojResolveAssemblyReference.cache

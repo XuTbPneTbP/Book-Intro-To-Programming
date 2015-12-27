@@ -1,0 +1,4 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\08.Prime-Number-Check\bin\Release\08.Prime-Number-Check.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\08.Prime-Number-Check\bin\Release\08.Prime-Number-Check.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\08.Prime-Number-Check\obj\x86\Release\08.Prime-Number-Check.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\08.Prime-Number-Check\obj\x86\Release\08.Prime-Number-Check.pdb

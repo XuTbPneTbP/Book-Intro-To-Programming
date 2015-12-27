@@ -1,0 +1,14 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\bin\Debug\1.CheckLeapYear.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\bin\Debug\1.CheckLeapYear.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\bin\Debug\1.CheckLeapYear.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\obj\Debug\1.CheckLeapYear.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\obj\Debug\1.CheckLeapYear.pdb
+D:\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\bin\Debug\1.CheckLeapYear.exe.config
+D:\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\obj\Debug\1.CheckLeapYear.exe
+D:\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\obj\Debug\1.CheckLeapYear.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\bin\Debug\1.CheckLeapYear.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\obj\Debug\1.CheckLeapYear.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\obj\Debug\1.CheckLeapYear.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\bin\Debug\1.CheckLeapYear.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\bin\Debug\1.CheckLeapYear.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\1.CheckLeapYear\obj\Debug\1.CheckLeapYear.csprojResolveAssemblyReference.cache

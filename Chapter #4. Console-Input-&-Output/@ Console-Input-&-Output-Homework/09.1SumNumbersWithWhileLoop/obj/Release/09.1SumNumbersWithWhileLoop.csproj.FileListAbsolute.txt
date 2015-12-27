@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\bin\Release\09.1SumNumbersWithWhileLoop.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\bin\Release\09.1SumNumbersWithWhileLoop.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\bin\Release\09.1SumNumbersWithWhileLoop.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\obj\Release\09.1SumNumbersWithWhileLoop.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\obj\Release\09.1SumNumbersWithWhileLoop.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\obj\Release\09.1SumNumbersWithWhileLoop.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\bin\Release\09.1SumNumbersWithWhileLoop.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\bin\Release\09.1SumNumbersWithWhileLoop.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\bin\Release\09.1SumNumbersWithWhileLoop.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\obj\Release\09.1SumNumbersWithWhileLoop.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\obj\Release\09.1SumNumbersWithWhileLoop.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\09.1SumNumbersWithWhileLoop\obj\Release\09.1SumNumbersWithWhileLoop.pdb

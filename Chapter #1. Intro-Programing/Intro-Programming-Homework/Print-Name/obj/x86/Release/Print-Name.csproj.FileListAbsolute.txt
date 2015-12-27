@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.exe
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.exe
+D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.pdb

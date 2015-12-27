@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ThrowingExceptions\obj\Debug\03.Throwing-Exceptions.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.pdb

@@ -1,0 +1,13 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\bin\Release\I.Print-Triangle.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\bin\Release\I.Print-Triangle.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\bin\Release\I.Print-Triangle.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\bin\Release\I.Print-Triangle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.exe
+D:\PROGRAMING\Intro2Programing\Chapter #6. Loops\Loops-Exercisses\I.Print-Triangle\obj\x86\Release\I.Print-Triangle.pdb

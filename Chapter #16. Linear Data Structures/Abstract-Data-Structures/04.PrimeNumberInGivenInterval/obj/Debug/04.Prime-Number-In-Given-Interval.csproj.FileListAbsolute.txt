@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\04.PrimeNumberInGivenInterval\bin\Debug\04.PrimeNumberInGivenInterval.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\04.PrimeNumberInGivenInterval\bin\Debug\04.PrimeNumberInGivenInterval.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\04.PrimeNumberInGivenInterval\bin\Debug\04.PrimeNumberInGivenInterval.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\04.PrimeNumberInGivenInterval\obj\Debug\04.PrimeNumberInGivenInterval.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\04.PrimeNumberInGivenInterval\obj\Debug\04.PrimeNumberInGivenInterval.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\04.PrimeNumberInGivenInterval\obj\Debug\04.Prime-Number-In-Given-Interval.csprojResolveAssemblyReference.cache

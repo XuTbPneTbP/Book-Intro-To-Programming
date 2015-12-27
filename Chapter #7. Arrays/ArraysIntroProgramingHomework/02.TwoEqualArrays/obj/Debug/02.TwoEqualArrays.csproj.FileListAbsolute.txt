@@ -1,0 +1,15 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\bin\Debug\02.TwoEqualArrays.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\bin\Debug\02.TwoEqualArrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\bin\Debug\02.TwoEqualArrays.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\bin\Debug\02.TwoEqualArrays.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\bin\Debug\02.TwoEqualArrays.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\bin\Debug\02.TwoEqualArrays.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\bin\Debug\02.TwoEqualArrays.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\02.TwoEqualArrays\obj\Debug\02.TwoEqualArrays.pdb

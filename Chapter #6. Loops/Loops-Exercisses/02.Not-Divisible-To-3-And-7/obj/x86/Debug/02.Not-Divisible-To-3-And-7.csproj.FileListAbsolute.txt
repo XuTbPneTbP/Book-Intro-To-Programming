@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\02.Not-Divisible-To-3-And-7\bin\Debug\02.Not-Divisible-To-3-And-7.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\02.Not-Divisible-To-3-And-7\bin\Debug\02.Not-Divisible-To-3-And-7.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\02.Not-Divisible-To-3-And-7\obj\x86\Debug\02.Not-Divisible-To-3-And-7.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\02.Not-Divisible-To-3-And-7\obj\x86\Debug\02.Not-Divisible-To-3-And-7.pdb

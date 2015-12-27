@@ -1,0 +1,15 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Release\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Release\04.Deck-Of-52-Cards.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Release\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Release\04.Deck-Of-52-Cards.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\Intro2Programing\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Release\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\Intro2Programing\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Release\04.Deck-Of-52-Cards.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Release\04.Deck-Of-52-Cards.csprojResolveAssemblyReference.cache

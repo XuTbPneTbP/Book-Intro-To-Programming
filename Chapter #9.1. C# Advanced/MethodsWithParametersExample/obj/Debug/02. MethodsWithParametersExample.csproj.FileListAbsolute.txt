@@ -1,0 +1,6 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsWithParametersExample\bin\Debug\MethodsWithParametersExample.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsWithParametersExample\bin\Debug\MethodsWithParametersExample.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsWithParametersExample\obj\Debug\MethodsWithParametersExample.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsWithParametersExample\obj\Debug\MethodsWithParametersExample.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsWithParametersExample\obj\Debug\MethodsWithParametersExample.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MethodsWithParametersExample\obj\Debug\MethodsWithParametersExample.pdb

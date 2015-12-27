@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\CatchingExceptions\bin\Debug\CatchingExceptions.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\CatchingExceptions\bin\Debug\CatchingExceptions.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\CatchingExceptions\bin\Debug\CatchingExceptions.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\CatchingExceptions\obj\Debug\02.Catching-Exceptions.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\CatchingExceptions\obj\Debug\CatchingExceptions.exe
+D:\PROGRAMING\Intro2Programing\Chapter #12. Exception Handling\Exception Handling Demos\CatchingExceptions\obj\Debug\CatchingExceptions.pdb

@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\02.Bin2HexAndDec\bin\Debug\02.Bin2HexAndDec.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\02.Bin2HexAndDec\bin\Debug\02.Bin2HexAndDec.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\02.Bin2HexAndDec\bin\Debug\02.Bin2HexAndDec.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\02.Bin2HexAndDec\obj\Debug\02.Bin2HexAndDec.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\02.Bin2HexAndDec\obj\Debug\02.Bin2HexAndDec.pdb

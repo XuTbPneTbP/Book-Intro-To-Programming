@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\bin\Release\07.NFactorial-Multiply-By-KFactorial.exe.config
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\bin\Release\07.NFactorial-Multiply-By-KFactorial.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\bin\Release\07.NFactorial-Multiply-By-KFactorial.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\obj\Release\07.NFactorial-Multiply-By-KFactorial.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\obj\Release\07.NFactorial-Multiply-By-KFactorial.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\obj\Release\07.NFactorial-Multiply-By-KFactorial.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\bin\Release\07.NFactorial-Multiply-By-KFactorial.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\obj\Release\07.NFactorial-Multiply-By-KFactorial.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\obj\Release\07.NFactorial-Multiply-By-KFactorial.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\bin\Release\07.NFactorial-Multiply-By-KFactorial.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\bin\Release\07.NFactorial-Multiply-By-KFactorial.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\07.NFactorial-Multiply-By-KFactorial\obj\Release\07.NFactorial-Multiply-By-KFactorial.csprojResolveAssemblyReference.cache

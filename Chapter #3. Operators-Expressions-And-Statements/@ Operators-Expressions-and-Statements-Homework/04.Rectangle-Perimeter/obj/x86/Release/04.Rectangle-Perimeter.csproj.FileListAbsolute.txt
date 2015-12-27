@@ -1,0 +1,4 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\04.Rectangle-Perimeter\bin\Release\04.Rectangle-Perimeter.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\04.Rectangle-Perimeter\bin\Release\04.Rectangle-Perimeter.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\04.Rectangle-Perimeter\obj\x86\Release\04.Rectangle-Perimeter.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\04.Rectangle-Perimeter\obj\x86\Release\04.Rectangle-Perimeter.pdb

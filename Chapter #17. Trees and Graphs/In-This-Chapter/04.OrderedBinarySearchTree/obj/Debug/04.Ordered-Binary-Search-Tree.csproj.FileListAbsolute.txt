@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\04.OrderedBinarySearchTree\obj\Debug\04.Ordered-Binary-Search-Tree.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\04.OrderedBinarySearchTree\bin\Debug\04.OrderedBinarySearchTree.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\04.OrderedBinarySearchTree\bin\Debug\04.OrderedBinarySearchTree.exe
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\04.OrderedBinarySearchTree\bin\Debug\04.OrderedBinarySearchTree.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\04.OrderedBinarySearchTree\obj\Debug\04.OrderedBinarySearchTree.exe
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\04.OrderedBinarySearchTree\obj\Debug\04.OrderedBinarySearchTree.pdb

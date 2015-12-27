@@ -1,0 +1,9 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\bin\Release\10.QuadraticEquations.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\bin\Release\10.QuadraticEquations.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\bin\Release\10.QuadraticEquations.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\obj\Release\10.QuadraticEquations.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\obj\Release\10.QuadraticEquations.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\obj\Release\10.QuadraticEquations.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\bin\Release\10.QuadraticEquations.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\obj\Release\10.QuadraticEquations.exe
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\10.QuadraticEquations\obj\Release\10.QuadraticEquations.pdb

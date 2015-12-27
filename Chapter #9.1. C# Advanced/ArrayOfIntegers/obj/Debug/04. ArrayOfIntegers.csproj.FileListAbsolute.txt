@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Downloads\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.exe
+C:\Users\User\Desktop\Downloads\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.pdb
+C:\Users\User\Desktop\Downloads\ArrayOfIntegers\obj\Debug\04. ArrayOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Downloads\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.exe
+C:\Users\User\Desktop\Downloads\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfIntegers\obj\Debug\ArrayOfIntegers.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfIntegers\bin\Debug\ArrayOfIntegers.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\ArrayOfIntegers\obj\Debug\04. ArrayOfIntegers.csprojResolveAssemblyReference.cache

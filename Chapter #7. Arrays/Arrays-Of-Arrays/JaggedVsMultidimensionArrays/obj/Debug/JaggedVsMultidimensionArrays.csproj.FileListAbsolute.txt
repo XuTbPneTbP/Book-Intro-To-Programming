@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedVsMultidimensionArrays\bin\Debug\JaggedVsMultidimensionArrays.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedVsMultidimensionArrays\bin\Debug\JaggedVsMultidimensionArrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedVsMultidimensionArrays\bin\Debug\JaggedVsMultidimensionArrays.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedVsMultidimensionArrays\obj\Debug\JaggedVsMultidimensionArrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedVsMultidimensionArrays\obj\Debug\JaggedVsMultidimensionArrays.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\JaggedVsMultidimensionArrays\obj\Debug\JaggedVsMultidimensionArrays.csprojResolveAssemblyReference.cache

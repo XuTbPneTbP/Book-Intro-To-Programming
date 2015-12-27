@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\03.GenerateCombinations\bin\Debug\03.GenerateCombinations.exe.config
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\03.GenerateCombinations\obj\Debug\03.GenerateCombinations.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\03.GenerateCombinations\bin\Debug\03.GenerateCombinations.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\03.GenerateCombinations\bin\Debug\03.GenerateCombinations.pdb
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\03.GenerateCombinations\obj\Debug\03.GenerateCombinations.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\03.GenerateCombinations\obj\Debug\03.GenerateCombinations.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\03.GenerateCombinations\bin\Debug\03.GenerateCombinations.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\03.GenerateCombinations\obj\Debug\03.GenerateCombinations.exe
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\03.GenerateCombinations\obj\Debug\03.GenerateCombinations.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\03.GenerateCombinations\bin\Debug\03.GenerateCombinations.exe
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\03.GenerateCombinations\bin\Debug\03.GenerateCombinations.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\03.GenerateCombinations\obj\Debug\03.GenerateCombinations.csprojResolveAssemblyReference.cache

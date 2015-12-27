@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.Queue\bin\Debug\08.Queue.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.Queue\bin\Debug\08.Queue.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.Queue\bin\Debug\08.Queue.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.Queue\obj\Debug\08.Queue.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.Queue\obj\Debug\08.Queue.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.Queue\obj\Debug\08.Queue.pdb

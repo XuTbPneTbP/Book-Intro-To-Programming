@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\04.CaclTriangleArea\bin\Debug\04.CaclTriangleArea.exe.config
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\04.CaclTriangleArea\bin\Debug\04.CaclTriangleArea.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\04.CaclTriangleArea\bin\Debug\04.CaclTriangleArea.pdb
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\04.CaclTriangleArea\obj\Debug\04.CaclTriangleArea.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\04.CaclTriangleArea\obj\Debug\04.CaclTriangleArea.pdb

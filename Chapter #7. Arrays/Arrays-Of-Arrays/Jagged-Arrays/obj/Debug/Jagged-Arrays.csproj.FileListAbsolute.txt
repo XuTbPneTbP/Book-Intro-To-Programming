@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Jagged-Arrays\bin\Debug\Jagged-Arrays.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Jagged-Arrays\obj\Debug\Jagged-Arrays.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Jagged-Arrays\bin\Debug\Jagged-Arrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Jagged-Arrays\bin\Debug\Jagged-Arrays.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Jagged-Arrays\obj\Debug\Jagged-Arrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Jagged-Arrays\obj\Debug\Jagged-Arrays.pdb

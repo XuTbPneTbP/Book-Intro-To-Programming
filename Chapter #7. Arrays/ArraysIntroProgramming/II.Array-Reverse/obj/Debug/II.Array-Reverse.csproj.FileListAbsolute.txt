@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\II.Array-Reverse\bin\Debug\II.Array-Reverse.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\II.Array-Reverse\bin\Debug\II.Array-Reverse.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\II.Array-Reverse\bin\Debug\II.Array-Reverse.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\II.Array-Reverse\obj\Debug\II.Array-Reverse.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\II.Array-Reverse\obj\Debug\II.Array-Reverse.pdb

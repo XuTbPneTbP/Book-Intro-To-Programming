@@ -1,0 +1,12 @@
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\bin\Debug\02.RemoveIntegersFromSequence.exe.config
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\bin\Debug\02.RemoveIntegersFromSequence.exe
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\bin\Debug\02.RemoveIntegersFromSequence.pdb
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\obj\Debug\02.RemoveIntegersFromSequence.exe
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\obj\Debug\02.RemoveIntegersFromSequence.pdb
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\obj\Debug\02.RemoveIntegersFromSequence.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\bin\Debug\02.RemoveIntegersFromSequence.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\obj\Debug\02.RemoveIntegersFromSequence.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\obj\Debug\02.RemoveIntegersFromSequence.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\bin\Debug\02.RemoveIntegersFromSequence.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\bin\Debug\02.RemoveIntegersFromSequence.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\02.RemoveIntegersFromSequence\obj\Debug\02.RemoveIntegersFromSequence.csprojResolveAssemblyReference.cache

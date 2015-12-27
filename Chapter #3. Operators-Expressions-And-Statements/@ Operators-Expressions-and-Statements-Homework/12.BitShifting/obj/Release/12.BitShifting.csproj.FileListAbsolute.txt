@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\12.BitShifting\bin\Release\12.BitShifting.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\12.BitShifting\bin\Release\12.BitShifting.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\12.BitShifting\bin\Release\12.BitShifting.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\12.BitShifting\obj\Release\12.BitShifting.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\12.BitShifting\obj\Release\12.BitShifting.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\12.BitShifting\obj\Release\12.BitShifting.pdb

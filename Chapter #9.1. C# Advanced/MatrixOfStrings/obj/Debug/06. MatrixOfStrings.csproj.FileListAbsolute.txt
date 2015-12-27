@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Downloads\MatrixOfStrings\bin\Debug\MatrixOfStrings.exe
+C:\Users\User\Desktop\Downloads\MatrixOfStrings\bin\Debug\MatrixOfStrings.pdb
+C:\Users\User\Desktop\Downloads\MatrixOfStrings\obj\Debug\MatrixOfStrings.exe
+C:\Users\User\Desktop\Downloads\MatrixOfStrings\obj\Debug\MatrixOfStrings.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\obj\Debug\MatrixOfStrings.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\obj\Debug\MatrixOfStrings.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\bin\Debug\MatrixOfStrings.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\bin\Debug\MatrixOfStrings.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\obj\Debug\MatrixOfStrings.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\obj\Debug\MatrixOfStrings.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\bin\Debug\MatrixOfStrings.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\MatrixOfStrings\bin\Debug\MatrixOfStrings.pdb

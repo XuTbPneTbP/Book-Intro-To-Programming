@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\Exception-Handling\bin\Debug\Exception-Handling.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\Exception-Handling\bin\Debug\Exception-Handling.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\Exception-Handling\bin\Debug\Exception-Handling.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\Exception-Handling\obj\Debug\Exception-Handling.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\Exception-Handling\obj\Debug\Exception-Handling.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\Exception-Handling\obj\Debug\Exception-Handling.csprojResolveAssemblyReference.cache

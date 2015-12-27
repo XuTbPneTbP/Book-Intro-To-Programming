@@ -1,0 +1,8 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\bin\Release\06.FourDigitNumber.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\bin\Release\06.FourDigitNumber.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\obj\x86\Release\06.FourDigitNumber.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\obj\x86\Release\06.FourDigitNumber.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\obj\x86\Release\06.FourDigitNumber.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\obj\x86\Release\06.FourDigitNumber.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\bin\Release\06.FourDigitNumber.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\06.FourDigitNumber\bin\Release\06.FourDigitNumber.pdb

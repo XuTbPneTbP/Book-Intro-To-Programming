@@ -1,0 +1,15 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\obj\Debug\01.Printing-String-Matrices.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\obj\Debug\01.Printing-String-Matrices.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\obj\Debug\01.Printing-String-Matrices.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\obj\Debug\01.Printing-String-Matrices.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\obj\Debug\01.Printing-String-Matrices.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\obj\Debug\01.Printing-String-Matrices.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-String-Matrices\bin\Debug\01.Printing-String-Matrices.pdb

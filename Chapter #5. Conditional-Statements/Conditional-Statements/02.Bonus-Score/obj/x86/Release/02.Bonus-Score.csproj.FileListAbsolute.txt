@@ -1,0 +1,5 @@
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\02.Bonus-Score\bin\Release\02.Bonus-Score.exe
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\02.Bonus-Score\bin\Release\02.Bonus-Score.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\02.Bonus-Score\obj\x86\Release\02.Bonus-Score.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\02.Bonus-Score\obj\x86\Release\02.Bonus-Score.exe
+D:\PROGRAMING\Intro2Programing\Chapter #5. Conditional-Statements\Conditional-Statements\02.Bonus-Score\obj\x86\Release\02.Bonus-Score.pdb

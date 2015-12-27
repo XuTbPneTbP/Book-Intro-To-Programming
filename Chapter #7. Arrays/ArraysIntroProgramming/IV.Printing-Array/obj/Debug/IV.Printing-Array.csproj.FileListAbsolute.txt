@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\IV.Printing-Array\bin\Debug\IV.Printing-Array.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\IV.Printing-Array\bin\Debug\IV.Printing-Array.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\IV.Printing-Array\bin\Debug\IV.Printing-Array.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\IV.Printing-Array\obj\Debug\IV.Printing-Array.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\IV.Printing-Array\obj\Debug\IV.Printing-Array.pdb

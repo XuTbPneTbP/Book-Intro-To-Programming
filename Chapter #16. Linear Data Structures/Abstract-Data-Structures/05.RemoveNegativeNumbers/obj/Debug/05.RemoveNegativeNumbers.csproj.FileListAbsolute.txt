@@ -1,0 +1,1 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe.config

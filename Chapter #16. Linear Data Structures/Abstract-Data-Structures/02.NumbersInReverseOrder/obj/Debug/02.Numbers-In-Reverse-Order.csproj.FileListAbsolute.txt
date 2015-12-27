@@ -1,0 +1,5 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.NumbersInReverseOrder\bin\Debug\02.NumbersInReverseOrder.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.NumbersInReverseOrder\bin\Debug\02.NumbersInReverseOrder.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.NumbersInReverseOrder\bin\Debug\02.NumbersInReverseOrder.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.NumbersInReverseOrder\obj\Debug\02.NumbersInReverseOrder.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.NumbersInReverseOrder\obj\Debug\02.NumbersInReverseOrder.pdb

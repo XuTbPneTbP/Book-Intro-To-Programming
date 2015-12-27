@@ -1,0 +1,9 @@
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\bin\Debug\01.RecursiveFactorial.exe.config
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\bin\Debug\01.RecursiveFactorial.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\bin\Debug\01.RecursiveFactorial.pdb
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\obj\Debug\01.RecursiveFactorial.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\obj\Debug\01.RecursiveFactorial.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\obj\Debug\01.RecursiveFactorial.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\bin\Debug\01.RecursiveFactorial.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\obj\Debug\01.RecursiveFactorial.exe
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\01.RecursiveFactorial\obj\Debug\01.RecursiveFactorial.pdb

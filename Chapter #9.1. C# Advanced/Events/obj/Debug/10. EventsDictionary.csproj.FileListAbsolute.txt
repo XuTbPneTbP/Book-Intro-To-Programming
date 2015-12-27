@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Downloads\Events\bin\Debug\Events.exe
+C:\Users\User\Desktop\Downloads\Events\bin\Debug\Events.pdb
+C:\Users\User\Desktop\Downloads\Events\obj\Debug\Events.exe
+C:\Users\User\Desktop\Downloads\Events\obj\Debug\Events.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\obj\Debug\Events.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\obj\Debug\Events.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\bin\Debug\Events.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\bin\Debug\Events.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\obj\Debug\Events.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\obj\Debug\Events.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\bin\Debug\Events.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\Events\bin\Debug\Events.pdb

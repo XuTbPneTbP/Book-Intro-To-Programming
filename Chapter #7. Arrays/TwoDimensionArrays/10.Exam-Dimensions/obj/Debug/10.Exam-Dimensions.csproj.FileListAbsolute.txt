@@ -1,0 +1,18 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\bin\Debug\10.Exam-Dimensions.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\10.Exam-Dimensions\obj\Debug\10.Exam-Dimensions.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-One-and-Zero\bin\Release\Print-One-and-Zero.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-One-and-Zero\bin\Release\Print-One-and-Zero.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-One-and-Zero\obj\x86\Release\Print-One-and-Zero.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-One-and-Zero\obj\x86\Release\Print-One-and-Zero.pdb

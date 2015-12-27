@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Debug\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\bin\Debug\04.Deck-Of-52-Cards.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Debug\04.Deck-Of-52-Cards.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\04.Deck-Of-52-Cards\obj\x86\Debug\04.Deck-Of-52-Cards.pdb

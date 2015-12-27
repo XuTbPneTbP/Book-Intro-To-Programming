@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Long-Sequence\bin\Release\Print-Long-Sequence.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Long-Sequence\bin\Release\Print-Long-Sequence.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Long-Sequence\obj\x86\Release\Print-Long-Sequence.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Long-Sequence\obj\x86\Release\Print-Long-Sequence.pdb

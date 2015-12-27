@@ -1,0 +1,17 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\01.Count-Words-In-Text.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\CountWords.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\CountWords.pdb
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.exe.config
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\CountWords.exe
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\CountWords.pdb
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.exe
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.pdb
+D:\PROGRAMING\C-Sharp\Book Intro To Programing Examples\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\01.Count-Words-In-Text.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\CountWords.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\obj\Debug\CountWords.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\CountWords\bin\Debug\CountWords.pdb

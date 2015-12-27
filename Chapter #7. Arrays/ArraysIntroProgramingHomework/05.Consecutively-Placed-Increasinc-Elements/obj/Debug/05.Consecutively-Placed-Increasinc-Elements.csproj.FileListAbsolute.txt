@@ -1,0 +1,18 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.csprojResolveAssemblyReference.cache
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\bin\Debug\05.Consecutively-Placed-Increasinc-Elements.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\ArraysIntroProgramingHomework\05.Consecutively-Placed-Increasinc-Elements\obj\Debug\05.Consecutively-Placed-Increasinc-Elements.csprojResolveAssemblyReference.cache

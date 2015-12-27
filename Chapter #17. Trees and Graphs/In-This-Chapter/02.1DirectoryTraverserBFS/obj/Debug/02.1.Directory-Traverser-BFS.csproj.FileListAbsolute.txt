@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\02.1DirectoryTraverserBFS\bin\Debug\02.1DirectoryTraverserBFS.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\02.1DirectoryTraverserBFS\bin\Debug\02.1DirectoryTraverserBFS.exe
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\02.1DirectoryTraverserBFS\bin\Debug\02.1DirectoryTraverserBFS.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\02.1DirectoryTraverserBFS\obj\Debug\02.1.Directory-Traverser-BFS.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\02.1DirectoryTraverserBFS\obj\Debug\02.1DirectoryTraverserBFS.exe
+D:\PROGRAMING\Intro2Programing\Chapter #17. Trees and Graphs\In-This-Chapter\02.1DirectoryTraverserBFS\obj\Debug\02.1DirectoryTraverserBFS.pdb

@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\02.Reading-Matrices-From-The-Console\bin\Debug\02.Reading-Matrices-From-The-Console.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\02.Reading-Matrices-From-The-Console\obj\Debug\02.Reading-Matrices-From-The-Console.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\02.Reading-Matrices-From-The-Console\bin\Debug\02.Reading-Matrices-From-The-Console.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\02.Reading-Matrices-From-The-Console\bin\Debug\02.Reading-Matrices-From-The-Console.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\02.Reading-Matrices-From-The-Console\obj\Debug\02.Reading-Matrices-From-The-Console.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\02.Reading-Matrices-From-The-Console\obj\Debug\02.Reading-Matrices-From-The-Console.pdb

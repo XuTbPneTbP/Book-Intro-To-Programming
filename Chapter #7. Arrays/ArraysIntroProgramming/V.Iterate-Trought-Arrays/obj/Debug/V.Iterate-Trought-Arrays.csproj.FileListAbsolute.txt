@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\V.Iterate-Trought-Arrays\bin\Debug\V.Iterate-Trought-Arrays.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\V.Iterate-Trought-Arrays\bin\Debug\V.Iterate-Trought-Arrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\V.Iterate-Trought-Arrays\bin\Debug\V.Iterate-Trought-Arrays.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\V.Iterate-Trought-Arrays\obj\Debug\V.Iterate-Trought-Arrays.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\ArraysIntroProgramming\V.Iterate-Trought-Arrays\obj\Debug\V.Iterate-Trought-Arrays.pdb

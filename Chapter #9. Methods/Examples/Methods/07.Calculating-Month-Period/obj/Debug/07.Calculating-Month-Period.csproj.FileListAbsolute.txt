@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\07.Calculating-Month-Period\bin\Debug\07.Calculating-Month-Period.exe.config
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\07.Calculating-Month-Period\bin\Debug\07.Calculating-Month-Period.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\07.Calculating-Month-Period\bin\Debug\07.Calculating-Month-Period.pdb
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\07.Calculating-Month-Period\obj\Debug\07.Calculating-Month-Period.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\07.Calculating-Month-Period\obj\Debug\07.Calculating-Month-Period.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\07.Calculating-Month-Period\obj\Debug\07.Calculating-Month-Period.pdb

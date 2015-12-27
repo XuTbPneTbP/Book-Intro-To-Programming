@@ -1,0 +1,15 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\bin\Release\14.Modify-Bit-At-Position.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\bin\Release\14.Modify-Bit-At-Position.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.pdb
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\bin\Release\14.Modify-Bit-At-Position.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\bin\Release\14.Modify-Bit-At-Position.pdb
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\bin\Release\14.Modify-Bit-At-Position.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\bin\Release\14.Modify-Bit-At-Position.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\14.Modify-Bit-At-Position\obj\x86\Release\14.Modify-Bit-At-Position.csprojResolveAssemblyReference.cache

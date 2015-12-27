@@ -1,0 +1,1 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\CountFactorialZeroesAtTheEnd\bin\Release\CountFactorialZeroesAtTheEnd.exe.config

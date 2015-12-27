@@ -1,0 +1,9 @@
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\bin\Debug\08.Printing-Triangle.exe.config
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\bin\Debug\08.Printing-Triangle.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\bin\Debug\08.Printing-Triangle.pdb
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\obj\Debug\08.Printing-Triangle.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\obj\Debug\08.Printing-Triangle.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\obj\Debug\08.Printing-Triangle.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\bin\Debug\08.Printing-Triangle.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\obj\Debug\08.Printing-Triangle.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangle\obj\Debug\08.Printing-Triangle.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Create-Array-Of-20-Integers", "01.Create-Array-Of-20-Integers\01.Create-Array-Of-20-Integers.csproj", "{EB95A96F-190E-4154-9FC5-A566325CFDFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TwoEqualArrays", "02.TwoEqualArrays\02.TwoEqualArrays.csproj", "{40BC39A6-F516-4B48-A315-A0FB87EEB372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Compares-Array-of-Type-Char", "03.Compares-Array-of-Type-Char\03.Compares-Array-of-Type-Char.csproj", "{B5CD91EA-81A5-481E-A082-78E2F13C4CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Sequence-Of-Equal-Elements", "04.Sequence-Of-Equal-Elements\04.Sequence-Of-Equal-Elements.csproj", "{CBF66BC6-57DC-40A7-AFDC-823B4FD3E0AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Consecutively-Placed-Increasinc-Elements", "05.Consecutively-Placed-Increasinc-Elements\05.Consecutively-Placed-Increasinc-Elements.csproj", "{2BD92FA9-ADD3-4BC9-A37D-6B24A8652534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Sequence-Of-Increasing-Elements", "06.Sequence-Of-Increasing-Elements\06.Sequence-Of-Increasing-Elements.csproj", "{08C51890-8BD0-488A-9F24-5DB86533E9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB95A96F-190E-4154-9FC5-A566325CFDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB95A96F-190E-4154-9FC5-A566325CFDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB95A96F-190E-4154-9FC5-A566325CFDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB95A96F-190E-4154-9FC5-A566325CFDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BC39A6-F516-4B48-A315-A0FB87EEB372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BC39A6-F516-4B48-A315-A0FB87EEB372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BC39A6-F516-4B48-A315-A0FB87EEB372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BC39A6-F516-4B48-A315-A0FB87EEB372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CD91EA-81A5-481E-A082-78E2F13C4CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CD91EA-81A5-481E-A082-78E2F13C4CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CD91EA-81A5-481E-A082-78E2F13C4CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CD91EA-81A5-481E-A082-78E2F13C4CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF66BC6-57DC-40A7-AFDC-823B4FD3E0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF66BC6-57DC-40A7-AFDC-823B4FD3E0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF66BC6-57DC-40A7-AFDC-823B4FD3E0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF66BC6-57DC-40A7-AFDC-823B4FD3E0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD92FA9-ADD3-4BC9-A37D-6B24A8652534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD92FA9-ADD3-4BC9-A37D-6B24A8652534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD92FA9-ADD3-4BC9-A37D-6B24A8652534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD92FA9-ADD3-4BC9-A37D-6B24A8652534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C51890-8BD0-488A-9F24-5DB86533E9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C51890-8BD0-488A-9F24-5DB86533E9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C51890-8BD0-488A-9F24-5DB86533E9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C51890-8BD0-488A-9F24-5DB86533E9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

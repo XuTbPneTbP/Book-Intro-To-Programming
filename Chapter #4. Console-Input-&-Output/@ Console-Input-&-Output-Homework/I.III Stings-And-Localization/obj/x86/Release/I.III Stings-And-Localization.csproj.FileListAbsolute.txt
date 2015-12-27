@@ -1,0 +1,13 @@
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\bin\Release\I.III Stings-And-Localization.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\bin\Release\I.III Stings-And-Localization.pdb
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\obj\x86\Release\I.III Stings-And-Localization.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\obj\x86\Release\I.III Stings-And-Localization.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\obj\x86\Release\I.III Stings-And-Localization.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\obj\x86\Release\I.III Stings-And-Localization.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\bin\Release\I.III Stings-And-Localization.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\I.III Stings-And-Localization\bin\Release\I.III Stings-And-Localization.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.III Stings-And-Localization\bin\Release\I.III Stings-And-Localization.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.III Stings-And-Localization\bin\Release\I.III Stings-And-Localization.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.III Stings-And-Localization\obj\x86\Release\I.III Stings-And-Localization.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.III Stings-And-Localization\obj\x86\Release\I.III Stings-And-Localization.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\I.III Stings-And-Localization\obj\x86\Release\I.III Stings-And-Localization.pdb

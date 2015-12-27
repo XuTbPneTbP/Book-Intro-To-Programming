@@ -1,0 +1,9 @@
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\01.StreamReader\bin\Debug\01.StreamReader.exe.config
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\01.StreamReader\bin\Debug\01.StreamReader.exe
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\01.StreamReader\bin\Debug\01.StreamReader.pdb
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\01.StreamReader\obj\Debug\01.Stream-Reader.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\01.StreamReader\obj\Debug\01.StreamReader.exe
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\01.StreamReader\obj\Debug\01.StreamReader.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\01.StreamReader\bin\Debug\01.StreamReader.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\01.StreamReader\obj\Debug\01.StreamReader.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\01.StreamReader\obj\Debug\01.StreamReader.pdb

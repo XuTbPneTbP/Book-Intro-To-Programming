@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\09.Temerature-Conversion\bin\Debug\09.Temerature-Conversion.exe.config
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\09.Temerature-Conversion\obj\Debug\09.Temerature-Conversion.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\09.Temerature-Conversion\bin\Debug\09.Temerature-Conversion.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\09.Temerature-Conversion\bin\Debug\09.Temerature-Conversion.pdb
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\09.Temerature-Conversion\obj\Debug\09.Temerature-Conversion.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\09.Temerature-Conversion\obj\Debug\09.Temerature-Conversion.pdb

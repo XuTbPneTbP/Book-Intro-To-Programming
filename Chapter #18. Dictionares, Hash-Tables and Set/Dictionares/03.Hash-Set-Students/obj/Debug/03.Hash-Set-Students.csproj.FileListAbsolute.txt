@@ -1,0 +1,5 @@
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Hash-Set-Students\bin\Debug\03.Hash-Set-Students.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Hash-Set-Students\bin\Debug\03.Hash-Set-Students.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Hash-Set-Students\bin\Debug\03.Hash-Set-Students.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Hash-Set-Students\obj\Debug\03.Hash-Set-Students.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\03.Hash-Set-Students\obj\Debug\03.Hash-Set-Students.pdb

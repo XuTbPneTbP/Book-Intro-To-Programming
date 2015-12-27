@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\I.Demos\bin\Debug\I.Demos.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\I.Demos\bin\Debug\I.Demos.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\I.Demos\bin\Debug\I.Demos.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\I.Demos\obj\Debug\I.Demos.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\I.Demos\obj\Debug\I.Demos.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #8. Numeral-Systems\Numeral-Systems\I.Demos\obj\Debug\I.Demos.csprojResolveAssemblyReference.cache

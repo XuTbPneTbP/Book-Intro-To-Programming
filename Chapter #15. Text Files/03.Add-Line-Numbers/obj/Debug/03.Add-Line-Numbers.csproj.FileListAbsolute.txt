@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Add-Line-Numbers\bin\Debug\03.Add-Line-Numbers.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Add-Line-Numbers\bin\Debug\03.Add-Line-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Add-Line-Numbers\bin\Debug\03.Add-Line-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Add-Line-Numbers\obj\Debug\03.Add-Line-Numbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Add-Line-Numbers\obj\Debug\03.Add-Line-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Add-Line-Numbers\obj\Debug\03.Add-Line-Numbers.pdb

@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\14.PetyaDemo\bin\Release\14.PetyaDemo.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\14.PetyaDemo\bin\Release\14.PetyaDemo.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\14.PetyaDemo\bin\Release\14.PetyaDemo.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\14.PetyaDemo\obj\Release\14.PetyaDemo.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\14.PetyaDemo\obj\Release\14.PetyaDemo.exe
+D:\PROGRAMING\Intro2Programing\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\14.PetyaDemo\obj\Release\14.PetyaDemo.pdb

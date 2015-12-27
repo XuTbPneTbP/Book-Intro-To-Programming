@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangles\bin\Debug\08.Printing-Triangles.exe.config
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangles\bin\Debug\08.Printing-Triangles.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangles\bin\Debug\08.Printing-Triangles.pdb
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangles\obj\Debug\08.Printing-Triangles.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\08.Printing-Triangles\obj\Debug\08.Printing-Triangles.pdb

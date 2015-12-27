@@ -1,0 +1,6 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #14. Defining Classes\BookDemos\01.SomeFundamentals\bin\Debug\01.SomeFundamentals.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #14. Defining Classes\BookDemos\01.SomeFundamentals\bin\Debug\01.SomeFundamentals.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #14. Defining Classes\BookDemos\01.SomeFundamentals\bin\Debug\01.SomeFundamentals.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #14. Defining Classes\BookDemos\01.SomeFundamentals\obj\Debug\01.SomeFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\Luben\PROGRAMING\C#\Chapter #14. Defining Classes\BookDemos\01.SomeFundamentals\obj\Debug\01.SomeFundamentals.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #14. Defining Classes\BookDemos\01.SomeFundamentals\obj\Debug\01.SomeFundamentals.pdb

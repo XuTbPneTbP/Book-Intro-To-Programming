@@ -1,0 +1,1 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\04.LongestSubsequenceOfEqualElements\bin\Debug\04.LongestSubsequenceOfEqualElements.exe.config

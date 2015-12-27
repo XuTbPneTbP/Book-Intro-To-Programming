@@ -1,0 +1,9 @@
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\02.VectorGenerator\bin\Debug\02.VectorGenerator.exe.config
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\02.VectorGenerator\bin\Debug\02.VectorGenerator.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\02.VectorGenerator\bin\Debug\02.VectorGenerator.pdb
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\02.VectorGenerator\obj\Debug\02.VectorGenerator.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\02.VectorGenerator\obj\Debug\02.VectorGenerator.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\02.VectorGenerator\obj\Debug\02.VectorGenerator.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\02.VectorGenerator\bin\Debug\02.VectorGenerator.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\02.VectorGenerator\obj\Debug\02.VectorGenerator.exe
+D:\PROGRAMING\Intro2Programing\Chapter #10. Recursion\Recursion\02.VectorGenerator\obj\Debug\02.VectorGenerator.pdb

@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\bin\Release\03.1.Min-Max-Sum-Average.exe.config
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\bin\Release\03.1.Min-Max-Sum-Average.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\bin\Release\03.1.Min-Max-Sum-Average.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\obj\Release\03.1.Min-Max-Sum-Average.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\obj\Release\03.1.Min-Max-Sum-Average.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\obj\Release\03.1.Min-Max-Sum-Average.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\bin\Release\03.1.Min-Max-Sum-Average.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\obj\Release\03.1.Min-Max-Sum-Average.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\obj\Release\03.1.Min-Max-Sum-Average.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\bin\Release\03.1.Min-Max-Sum-Average.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\bin\Release\03.1.Min-Max-Sum-Average.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\03.1.Min-Max-Sum-Average\obj\Release\03.1.Min-Max-Sum-Average.csprojResolveAssemblyReference.cache

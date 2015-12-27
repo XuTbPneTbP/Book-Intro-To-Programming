@@ -1,0 +1,1 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\08.FindMajorantInArray\bin\Debug\08.FindMajorantInArray.exe.config

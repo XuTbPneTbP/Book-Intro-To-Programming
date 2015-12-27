@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\04.Sorted-Set-Rock-Bands\bin\Debug\04.Sorted-Set-Rock-Bands.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\04.Sorted-Set-Rock-Bands\bin\Debug\04.Sorted-Set-Rock-Bands.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\04.Sorted-Set-Rock-Bands\bin\Debug\04.Sorted-Set-Rock-Bands.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\04.Sorted-Set-Rock-Bands\obj\Debug\04.Sorted-Set-Rock-Bands.exe
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\04.Sorted-Set-Rock-Bands\obj\Debug\04.Sorted-Set-Rock-Bands.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #18. Dictionares, Hash-Tables and Set\Dictionares\04.Sorted-Set-Rock-Bands\obj\Debug\04.Sorted-Set-Rock-Bands.csprojResolveAssemblyReference.cache

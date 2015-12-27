@@ -1,0 +1,15 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.exe.config
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\obj\Release\13.Binary-To-Decimal.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\obj\Release\13.Binary-To-Decimal.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\obj\Release\13.Binary-To-Decimal.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\obj\Release\13.Binary-To-Decimal.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\obj\Release\13.Binary-To-Decimal.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\obj\Release\13.Binary-To-Decimal.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\13.Binary-To-Decimal\bin\Release\13.Binary-To-Decimal.pdb

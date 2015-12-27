@@ -1,0 +1,1 @@
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion-Homework\Recursion-Homework\01.SimulateNestedLoops\bin\Debug\01.SimulateNestedLoops.exe.config

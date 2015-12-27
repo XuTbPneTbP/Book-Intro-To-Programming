@@ -1,0 +1,10 @@
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\bin\Release\02.Moon-Gravitation.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\bin\Release\02.Moon-Gravitation.pdb
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\obj\x86\Release\02.Moon-Gravitation.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\obj\x86\Release\02.Moon-Gravitation.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\obj\x86\Release\02.Moon-Gravitation.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\obj\x86\Release\02.Moon-Gravitation.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\bin\Release\02.Moon-Gravitation.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\bin\Release\02.Moon-Gravitation.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\obj\x86\Release\02.Moon-Gravitation.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\02.Moon-Gravitation\obj\x86\Release\02.Moon-Gravitation.pdb

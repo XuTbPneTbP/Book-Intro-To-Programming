@@ -1,0 +1,11 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Release\07.PointInACircle.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Release\07.PointInACircle.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\x86\Release\07.PointInACircle.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\x86\Release\07.PointInACircle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\x86\Release\07.PointInACircle.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\x86\Release\07.PointInACircle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Release\07.PointInACircle.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Release\07.PointInACircle.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\x86\Release\07.PointInACircle.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\x86\Release\07.PointInACircle.exe
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\x86\Release\07.PointInACircle.pdb

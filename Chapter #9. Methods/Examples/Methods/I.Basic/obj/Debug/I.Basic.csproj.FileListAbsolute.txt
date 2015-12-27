@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\bin\Debug\I.Basic.exe.config
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\bin\Debug\I.Basic.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\bin\Debug\I.Basic.pdb
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\obj\Debug\I.Basic.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\obj\Debug\I.Basic.exe
+D:\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\obj\Debug\I.Basic.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\bin\Debug\I.Basic.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\obj\Debug\I.Basic.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\I.Basic\obj\Debug\I.Basic.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #9. Methods\Examples\Methods\I.Basic\bin\Debug\I.Basic.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #9. Methods\Examples\Methods\I.Basic\obj\Debug\I.Basic.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #9. Methods\Examples\Methods\I.Basic\obj\Debug\I.Basic.pdb

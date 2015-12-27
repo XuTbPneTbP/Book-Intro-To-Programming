@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.Add-Two-Files\bin\Debug\02.Add-Two-Files.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.Add-Two-Files\bin\Debug\02.Add-Two-Files.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.Add-Two-Files\bin\Debug\02.Add-Two-Files.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.Add-Two-Files\obj\Debug\02.Add-Two-Files.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.Add-Two-Files\obj\Debug\02.Add-Two-Files.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.Add-Two-Files\obj\Debug\02.Add-Two-Files.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\02.Add-Two-Files\bin\Debug\02.Add-Two-Files.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\02.Add-Two-Files\obj\Debug\02.Add-Two-Files.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\02.Add-Two-Files\obj\Debug\02.Add-Two-Files.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\02.Add-Two-Files\bin\Debug\02.Add-Two-Files.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\02.Add-Two-Files\bin\Debug\02.Add-Two-Files.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\02.Add-Two-Files\obj\Debug\02.Add-Two-Files.csprojResolveAssemblyReference.cache

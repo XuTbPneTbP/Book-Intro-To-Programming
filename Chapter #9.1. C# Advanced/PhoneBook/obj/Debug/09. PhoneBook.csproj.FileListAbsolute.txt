@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Downloads\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\User\Desktop\Downloads\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\User\Desktop\Downloads\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\User\Desktop\Downloads\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\obj\Debug\PhoneBook.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\bin\Debug\PhoneBook.exe
+D:\PROGRAMING\C#\Chapter #9.1. C# Advanced\PhoneBook\bin\Debug\PhoneBook.pdb

@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\13.Check-A-Bit-At-Given-Position\bin\Release\13.Check-A-Bit-At-Given-Position.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\13.Check-A-Bit-At-Given-Position\bin\Release\13.Check-A-Bit-At-Given-Position.pdb
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\13.Check-A-Bit-At-Given-Position\obj\x86\Release\13.Check-A-Bit-At-Given-Position.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\13.Check-A-Bit-At-Given-Position\obj\x86\Release\13.Check-A-Bit-At-Given-Position.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\13.Check-A-Bit-At-Given-Position\obj\x86\Release\13.Check-A-Bit-At-Given-Position.pdb

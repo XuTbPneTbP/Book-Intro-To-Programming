@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.LinkedList\bin\Debug\02.LinkedList.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.LinkedList\bin\Debug\02.LinkedList.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.LinkedList\bin\Debug\02.LinkedList.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.LinkedList\obj\Debug\02.Linked-List.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.LinkedList\obj\Debug\02.LinkedList.exe
+D:\PROGRAMING\Intro2Programing\Chapter #16. Linear Data Structures\Abstract-Data-Structures\02.LinkedList\obj\Debug\02.LinkedList.pdb

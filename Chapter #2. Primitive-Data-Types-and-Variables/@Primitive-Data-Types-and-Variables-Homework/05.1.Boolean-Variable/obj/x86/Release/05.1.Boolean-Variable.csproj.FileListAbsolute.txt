@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\05.1.Boolean-Variable\bin\Release\05.1.Boolean-Variable.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\05.1.Boolean-Variable\bin\Release\05.1.Boolean-Variable.pdb
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\05.1.Boolean-Variable\obj\x86\Release\05.1.Boolean-Variable.exe
+D:\PROGRAMING\C#\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\05.1.Boolean-Variable\obj\x86\Release\05.1.Boolean-Variable.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\05.1.Boolean-Variable\obj\x86\Release\05.1.Boolean-Variable.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #2. Primitive-Data-Types-and-Variables\@Primitive-Data-Types-and-Variables-Homework\05.1.Boolean-Variable\obj\x86\Release\05.1.Boolean-Variable.pdb

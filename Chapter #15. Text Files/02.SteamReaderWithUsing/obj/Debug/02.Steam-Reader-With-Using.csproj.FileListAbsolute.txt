@@ -1,0 +1,8 @@
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\02.SteamReaderWithUsing\bin\Debug\02.SteamReaderWithUsing.exe.config
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\02.SteamReaderWithUsing\bin\Debug\02.SteamReaderWithUsing.exe
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\02.SteamReaderWithUsing\bin\Debug\02.SteamReaderWithUsing.pdb
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\02.SteamReaderWithUsing\obj\Debug\02.SteamReaderWithUsing.exe
+D:\PROGRAMING\SoftUni\SoftUni Web Services & Cloud\UR2PPR\02.SteamReaderWithUsing\obj\Debug\02.SteamReaderWithUsing.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.SteamReaderWithUsing\bin\Debug\02.SteamReaderWithUsing.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.SteamReaderWithUsing\obj\Debug\02.SteamReaderWithUsing.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\02.SteamReaderWithUsing\obj\Debug\02.SteamReaderWithUsing.pdb

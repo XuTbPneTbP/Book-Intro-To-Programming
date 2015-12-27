@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\bin\Debug\03.Maximal-Platform-With-Random-Numbers.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\bin\Debug\03.Maximal-Platform-With-Random-Numbers.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\bin\Debug\03.Maximal-Platform-With-Random-Numbers.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\obj\Debug\03.Maximal-Platform-With-Random-Numbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\obj\Debug\03.Maximal-Platform-With-Random-Numbers.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\obj\Debug\03.Maximal-Platform-With-Random-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\bin\Debug\03.Maximal-Platform-With-Random-Numbers.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\obj\Debug\03.Maximal-Platform-With-Random-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\obj\Debug\03.Maximal-Platform-With-Random-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\bin\Debug\03.Maximal-Platform-With-Random-Numbers.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\bin\Debug\03.Maximal-Platform-With-Random-Numbers.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\03.Maximal-Platform-With-Random-Numbers\obj\Debug\03.Maximal-Platform-With-Random-Numbers.csprojResolveAssemblyReference.cache

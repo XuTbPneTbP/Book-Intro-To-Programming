@@ -1,0 +1,8 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\bin\Release\03.Divide-By-7-and-5.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\bin\Release\03.Divide-By-7-and-5.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\obj\x86\Release\03.Divide-By-7-and-5.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\obj\x86\Release\03.Divide-By-7-and-5.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\obj\x86\Release\03.Divide-By-7-and-5.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\obj\x86\Release\03.Divide-By-7-and-5.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\bin\Release\03.Divide-By-7-and-5.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\03.Divide-By-7-and-5\bin\Release\03.Divide-By-7-and-5.pdb

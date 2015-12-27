@@ -1,0 +1,13 @@
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\03.Circle-Perimeter-And-Area\bin\Release\03.Circle-Perimeter-And-Area.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\03.Circle-Perimeter-And-Area\bin\Release\03.Circle-Perimeter-And-Area.pdb
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\03.Circle-Perimeter-And-Area\obj\x86\Release\03.Circle-Perimeter-And-Area.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\03.Circle-Perimeter-And-Area\obj\x86\Release\03.Circle-Perimeter-And-Area.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\obj\x86\Release\03.Circle-Perimeter-And-Area.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\obj\x86\Release\03.Circle-Perimeter-And-Area.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\bin\Release\03.Circle-Perimeter-And-Area.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\bin\Release\03.Circle-Perimeter-And-Area.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\bin\Release\03.Circle-Perimeter-And-Area.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\bin\Release\03.Circle-Perimeter-And-Area.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\obj\x86\Release\03.Circle-Perimeter-And-Area.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\obj\x86\Release\03.Circle-Perimeter-And-Area.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\03.Circle-Perimeter-And-Area\obj\x86\Release\03.Circle-Perimeter-And-Area.pdb

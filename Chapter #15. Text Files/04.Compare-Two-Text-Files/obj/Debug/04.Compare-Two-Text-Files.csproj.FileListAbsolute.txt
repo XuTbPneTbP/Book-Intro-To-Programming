@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.Compare-Two-Text-Files\bin\Debug\04.Compare-Two-Text-Files.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.Compare-Two-Text-Files\bin\Debug\04.Compare-Two-Text-Files.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.Compare-Two-Text-Files\bin\Debug\04.Compare-Two-Text-Files.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.Compare-Two-Text-Files\obj\Debug\04.Compare-Two-Text-Files.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\04.Compare-Two-Text-Files\obj\Debug\04.Compare-Two-Text-Files.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.Compare-Two-Text-Files\bin\Debug\04.Compare-Two-Text-Files.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.Compare-Two-Text-Files\obj\Debug\04.Compare-Two-Text-Files.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\04.Compare-Two-Text-Files\obj\Debug\04.Compare-Two-Text-Files.pdb

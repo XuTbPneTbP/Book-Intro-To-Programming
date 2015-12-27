@@ -1,0 +1,8 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\bin\Release\IV.Smaler-And-Larger.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\bin\Release\IV.Smaler-And-Larger.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\obj\x86\Release\IV.Smaler-And-Larger.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\obj\x86\Release\IV.Smaler-And-Larger.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\obj\x86\Release\IV.Smaler-And-Larger.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\obj\x86\Release\IV.Smaler-And-Larger.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\bin\Release\IV.Smaler-And-Larger.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\IV.Smaler-And-Larger\bin\Release\IV.Smaler-And-Larger.pdb

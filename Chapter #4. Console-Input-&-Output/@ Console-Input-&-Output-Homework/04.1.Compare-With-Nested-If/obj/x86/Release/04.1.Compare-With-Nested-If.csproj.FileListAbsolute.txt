@@ -1,0 +1,14 @@
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\04.1.Compare-With-Nested-If\bin\Release\04.1.Compare-With-Nested-If.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\04.1.Compare-With-Nested-If\bin\Release\04.1.Compare-With-Nested-If.pdb
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.exe
+D:\PROGRAMING\C#\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\Console-Input-And-Output\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\04.1.Compare-With-Nested-If\bin\Release\04.1.Compare-With-Nested-If.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\04.1.Compare-With-Nested-If\bin\Release\04.1.Compare-With-Nested-If.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.exe
+D:\PROGRAMING\Intro2Programing\Chapter #4. Console-Input-&-Output\@ Console-Input-&-Output-Homework\04.1.Compare-With-Nested-If\obj\x86\Release\04.1.Compare-With-Nested-If.pdb

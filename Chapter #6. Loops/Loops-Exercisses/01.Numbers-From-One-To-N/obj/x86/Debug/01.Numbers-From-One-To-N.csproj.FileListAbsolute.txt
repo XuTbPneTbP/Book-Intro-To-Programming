@@ -1,0 +1,4 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\01.Numbers-From-One-To-N\bin\Debug\01.Numbers-From-One-To-N.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\01.Numbers-From-One-To-N\bin\Debug\01.Numbers-From-One-To-N.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\01.Numbers-From-One-To-N\obj\x86\Debug\01.Numbers-From-One-To-N.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\01.Numbers-From-One-To-N\obj\x86\Debug\01.Numbers-From-One-To-N.pdb

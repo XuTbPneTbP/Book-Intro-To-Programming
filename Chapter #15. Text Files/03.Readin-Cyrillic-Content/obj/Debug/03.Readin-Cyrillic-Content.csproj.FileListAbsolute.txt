@@ -1,0 +1,5 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Readin-Cyrillic-Content\bin\Debug\03.Readin-Cyrillic-Content.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Readin-Cyrillic-Content\bin\Debug\03.Readin-Cyrillic-Content.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Readin-Cyrillic-Content\bin\Debug\03.Readin-Cyrillic-Content.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Readin-Cyrillic-Content\obj\Debug\03.Readin-Cyrillic-Content.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\03.Readin-Cyrillic-Content\obj\Debug\03.Readin-Cyrillic-Content.pdb

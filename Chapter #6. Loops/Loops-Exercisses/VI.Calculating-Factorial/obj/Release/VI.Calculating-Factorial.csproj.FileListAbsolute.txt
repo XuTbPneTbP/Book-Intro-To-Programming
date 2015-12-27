@@ -1,0 +1,18 @@
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.exe.config
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.pdb
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.exe
+D:\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\bin\Release\VI.Calculating-Factorial.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #6. Loops\Loops-Exercisses\VI.Calculating-Factorial\obj\Release\VI.Calculating-Factorial.csprojResolveAssemblyReference.cache

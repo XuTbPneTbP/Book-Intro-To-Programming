@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Pascal-Triangle\bin\Debug\Pascal-Triangle.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Pascal-Triangle\bin\Debug\Pascal-Triangle.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Pascal-Triangle\bin\Debug\Pascal-Triangle.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Pascal-Triangle\obj\Debug\Pascal-Triangle.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Pascal-Triangle\obj\Debug\Pascal-Triangle.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\Arrays-Of-Arrays\Pascal-Triangle\obj\Debug\Pascal-Triangle.pdb

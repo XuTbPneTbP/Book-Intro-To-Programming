@@ -1,0 +1,6 @@
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\ExercisesOperExpressStatm\AverageSumOf3Numbers\bin\Debug\AverageSumOf3Numbers.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\ExercisesOperExpressStatm\AverageSumOf3Numbers\bin\Debug\AverageSumOf3Numbers.exe
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\ExercisesOperExpressStatm\AverageSumOf3Numbers\bin\Debug\AverageSumOf3Numbers.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\ExercisesOperExpressStatm\AverageSumOf3Numbers\obj\Debug\Average-Sum-Of-3-Numbers.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\ExercisesOperExpressStatm\AverageSumOf3Numbers\obj\Debug\AverageSumOf3Numbers.exe
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\ExercisesOperExpressStatm\AverageSumOf3Numbers\obj\Debug\AverageSumOf3Numbers.pdb

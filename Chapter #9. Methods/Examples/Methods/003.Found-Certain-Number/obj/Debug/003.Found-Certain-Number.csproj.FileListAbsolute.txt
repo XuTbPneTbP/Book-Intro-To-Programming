@@ -1,0 +1,5 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\003.Found-Certain-Number\bin\Debug\003.Found-Certain-Number.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\003.Found-Certain-Number\bin\Debug\003.Found-Certain-Number.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\003.Found-Certain-Number\bin\Debug\003.Found-Certain-Number.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\003.Found-Certain-Number\obj\Debug\003.Found-Certain-Number.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #9. Methods\Examples\Methods\003.Found-Certain-Number\obj\Debug\003.Found-Certain-Number.pdb

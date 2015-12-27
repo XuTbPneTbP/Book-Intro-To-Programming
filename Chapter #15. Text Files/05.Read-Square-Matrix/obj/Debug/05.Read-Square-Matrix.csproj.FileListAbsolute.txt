@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Read-Square-Matrix\bin\Debug\05.Read-Square-Matrix.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Read-Square-Matrix\bin\Debug\05.Read-Square-Matrix.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Read-Square-Matrix\bin\Debug\05.Read-Square-Matrix.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Read-Square-Matrix\obj\Debug\05.Read-Square-Matrix.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Read-Square-Matrix\obj\Debug\05.Read-Square-Matrix.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #15. Text Files\05.Read-Square-Matrix\obj\Debug\05.Read-Square-Matrix.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Read-Square-Matrix\bin\Debug\05.Read-Square-Matrix.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Read-Square-Matrix\obj\Debug\05.Read-Square-Matrix.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Read-Square-Matrix\obj\Debug\05.Read-Square-Matrix.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Read-Square-Matrix\bin\Debug\05.Read-Square-Matrix.exe
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Read-Square-Matrix\bin\Debug\05.Read-Square-Matrix.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #15. Text Files\05.Read-Square-Matrix\obj\Debug\05.Read-Square-Matrix.csprojResolveAssemblyReference.cache

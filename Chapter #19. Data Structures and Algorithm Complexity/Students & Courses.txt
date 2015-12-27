@@ -1,0 +1,8 @@
+﻿Cris | Jones|  C#| Virginia Beach | 200-300
+Bugs | Bunny |  JavaScript |  San Antonio  | 098-12-12
+Daffy | Duck| C# | Portland | 11-12-13-14
+John Jey | Rambo | C# | San Antonio | 1-234-567
+Mia | Jones | JavaScript | Раковски ВилидЖъ | 18-19
+Сашка | Васева | Java EE | Раковски ВилидЖъ | 22-1234-55
+BiT4@ | Pliz | Java | Virginia Beach | 000003
+Rocky | Balboa | Java EE | New York | 10-20-30-44

@@ -1,0 +1,15 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\bin\Debug\01.Demos.exe.config
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.csprojResolveAssemblyReference.cache
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\bin\Debug\01.Demos.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\bin\Debug\01.Demos.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.pdb
+D:\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\bin\Debug\01.Demos.exe.config
+D:\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.exe
+D:\PROGRAMING\C#\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\bin\Debug\01.Demos.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\bin\Debug\01.Demos.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\bin\Debug\01.Demos.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #11. Creating and Using Objects\Exercisses\01.Demos\obj\Debug\01.Demos.csprojResolveAssemblyReference.cache

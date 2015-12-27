@@ -1,0 +1,6 @@
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.Simulation\bin\Debug\04.Simulation.exe.config
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.Simulation\bin\Debug\04.Simulation.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.Simulation\bin\Debug\04.Simulation.pdb
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.Simulation\obj\Debug\04.Simulation.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.Simulation\obj\Debug\04.Simulation.exe
+D:\PROGRAMING\C#\Chapter #10. Recursion\Recursion\04.Simulation\obj\Debug\04.Simulation.pdb

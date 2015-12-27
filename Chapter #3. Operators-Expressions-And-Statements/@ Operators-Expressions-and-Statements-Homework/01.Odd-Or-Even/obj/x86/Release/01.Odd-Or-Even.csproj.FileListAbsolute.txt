@@ -1,0 +1,14 @@
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\bin\Release\01.Odd-Or-Even.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\bin\Release\01.Odd-Or-Even.pdb
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.csprojResolveAssemblyReference.cache
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.exe
+C:\Users\Luben\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.pdb
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.exe
+D:\PROGRAMING\C#\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\bin\Release\01.Odd-Or-Even.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\bin\Release\01.Odd-Or-Even.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.exe
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\@ Operators-Expressions-and-Statements-Homework\01.Odd-Or-Even\obj\x86\Release\01.Odd-Or-Even.pdb

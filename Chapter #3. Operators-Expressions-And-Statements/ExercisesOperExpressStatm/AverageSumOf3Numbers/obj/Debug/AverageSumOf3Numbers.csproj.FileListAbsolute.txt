@@ -1,0 +1,1 @@
+D:\PROGRAMING\Intro2Programing\Chapter #3. Operators-Expressions-And-Statements\ExercisesOperExpressStatm\AverageSumOf3Numbers\bin\Debug\AverageSumOf3Numbers.exe.config

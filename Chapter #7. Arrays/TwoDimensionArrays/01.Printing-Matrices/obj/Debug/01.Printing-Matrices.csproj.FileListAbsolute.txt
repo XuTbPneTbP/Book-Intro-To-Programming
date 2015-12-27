@@ -1,0 +1,18 @@
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.exe.config
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.pdb
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.exe
+D:\PROGRAMING\C#\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.exe.config
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.exe
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.pdb
+D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.exe.config
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.exe
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\bin\Debug\01.Printing-Matrices.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #7. Arrays\TwoDimensionArrays\01.Printing-Matrices\obj\Debug\01.Printing-Matrices.csprojResolveAssemblyReference.cache
