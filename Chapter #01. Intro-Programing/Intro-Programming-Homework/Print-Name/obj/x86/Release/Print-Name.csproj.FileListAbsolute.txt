@@ -6,3 +6,8 @@ D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Ho
 D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.pdb
 D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.exe
 D:\PROGRAMING\Intro2Programing\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name\bin\Release\Print-Name.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name\obj\x86\Release\Print-Name.pdb

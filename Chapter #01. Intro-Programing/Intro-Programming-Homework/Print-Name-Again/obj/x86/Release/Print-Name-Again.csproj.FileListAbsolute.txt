@@ -2,3 +2,8 @@ D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\bin\Release\Print-Name-Again.pdb
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\obj\x86\Release\Print-Name-Again.exe
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\obj\x86\Release\Print-Name-Again.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\bin\Release\Print-Name-Again.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\bin\Release\Print-Name-Again.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\obj\x86\Release\Print-Name-Again.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\obj\x86\Release\Print-Name-Again.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Print-Name-Again\obj\x86\Release\Print-Name-Again.pdb

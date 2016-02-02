@@ -2,3 +2,8 @@ D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Reformat-Code\bin\Release\Reformat-Code.pdb
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Reformat-Code\obj\x86\Release\Reformat-Code.exe
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Reformat-Code\obj\x86\Release\Reformat-Code.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Reformat-Code\bin\Release\Reformat-Code.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Reformat-Code\bin\Release\Reformat-Code.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Reformat-Code\obj\x86\Release\Reformat-Code.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Reformat-Code\obj\x86\Release\Reformat-Code.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Reformat-Code\obj\x86\Release\Reformat-Code.pdb

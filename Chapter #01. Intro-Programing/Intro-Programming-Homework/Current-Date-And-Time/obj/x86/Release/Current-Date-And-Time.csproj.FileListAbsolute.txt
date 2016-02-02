@@ -2,3 +2,8 @@ D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\bin\Release\Current-Date-And-Time.pdb
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\obj\x86\Release\Current-Date-And-Time.exe
 D:\PROGRAMING\C#\Book Intro To Programing Examples\Chapter #1. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\obj\x86\Release\Current-Date-And-Time.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\bin\Release\Current-Date-And-Time.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\bin\Release\Current-Date-And-Time.pdb
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\obj\x86\Release\Current-Date-And-Time.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\obj\x86\Release\Current-Date-And-Time.exe
+D:\PROGRAMING\Intro2Programing\Chapter #01. Intro-Programing\Intro-Programming-Homework\Current-Date-And-Time\obj\x86\Release\Current-Date-And-Time.pdb
