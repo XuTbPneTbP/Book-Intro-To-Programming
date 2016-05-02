@@ -125,6 +125,7 @@ namespace FirstSteps
             {
             }
 
+
             /* Auto Property Initialzier Now in  C# 6.0 without constructor */
             public string Username { get; set; } = "You are funny!";
             public string PostTitle { get; } = "How to escape from bears!";
