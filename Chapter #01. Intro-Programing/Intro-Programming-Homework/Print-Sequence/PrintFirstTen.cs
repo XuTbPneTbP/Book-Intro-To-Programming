@@ -6,6 +6,7 @@ namespace Print_Sequence
     {
         static void Main()
         {
+            int q;
             int maxValue = 11;
             for (int i = 2; i <= maxValue; i++)
             {
