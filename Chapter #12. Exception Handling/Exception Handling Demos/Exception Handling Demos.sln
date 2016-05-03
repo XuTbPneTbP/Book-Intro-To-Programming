@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter Demos", "Chapter Demos", "{0445F09C-069D-4BCF-B747-BED4F49EF519}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter Homework", "Chapter Homework", "{9A527600-922B-4EB5-A062-B6DBB2A4B8F7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exceptions-Demo", "ExceptionsDemo\01.Exceptions-Demo.csproj", "{C7D2C6BA-C445-48FB-ADE1-FEC500854450}"
 EndProject
